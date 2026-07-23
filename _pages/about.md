@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Lecturer in Algebra and Topology, Cardiff University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>School of Mathematics</p>
+    <p>Cardiff University</p>
+    <p>Senghennydd Rd, Cardiff, CF24 4AG</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a [Senior Lecturer in Algebra and Topology](https://profiles.cardiff.ac.uk/staff/pennigu) at Cardiff University and a member of the research group Geometry, Algebra, Mathematical Physics and Topology (GAPT).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on connections between operator algebras and algebraic topology, in particular (twisted) K-theory and index theory. I am also interested in topological and conformal field theories, with a view towards elliptic cohomology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining the GAPT group at Cardiff University, I was a post-doc (akademischer Rat auf Zeit) at the University of Münster. I received my PhD in Mathematics under the supervision of [Thomas Schick](http://www.uni-math.gwdg.de/schick) and my Diploma in Physics under the supervision of [Karl-Henning Rehren](http://www.theorie.physik.uni-goettingen.de/~rehren/) in Göttingen.
+
+### Research interests
+
+My main research interest is algebraic topology. A topology on a space allows us to talk about closeness or neighbourhoods of points without having to talk about distances between them, which lets us define continuity of maps. Many geometric objects, such as surfaces or higher-dimensional manifolds, are in particular topological spaces. The goal of algebraic topology is to associate algebraic invariants — often groups, rings, or modules — to these spaces in a natural way, distinguishing them up to homotopy equivalence.
+
+An important example of such an invariant is topological K-theory, a generalised cohomology theory. It can be defined via the algebra of continuous functions on a space (vanishing at infinity), and as such generalises to noncommutative algebras, which can be thought of as "noncommutative topological spaces." These operator algebras play an important role in mathematical physics and can describe highly singular topological spaces, such as orbifolds or foliations.
+
+K-theory has many variants, including equivariant K-theory and twisted K-theory. One outcome of my research, joint with [Marius Dadarlat](http://www.math.purdue.edu/~mdd/), was a description of twisted K-theory via operator algebras that includes the higher twists — a feature of the theory previously only accessible via homotopy theory.
+
+I am interested in these and other interactions between algebraic topology, homotopy theory, and operator algebras. Having studied mathematical physics before my PhD, I am also interested in topological and conformal field theories and their connection with elliptic cohomology.
