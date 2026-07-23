@@ -61,7 +61,7 @@ al_folio:
     allow_remote_loader: true
   features:
     cv:
-      enabled: true
+      enabled: false
     distill:
       enabled: true
   compat:
@@ -187,13 +187,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: true
+    output: false
   teachings:
     output: true
 
