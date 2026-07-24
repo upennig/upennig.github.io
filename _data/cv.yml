@@ -1,189 +1,202 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Ulrich Pennig
+  location: Cardiff, Wales, United Kingdom
+  email: PennigU@cardiff.ac.uk
+  phone: "+44-7847-582372"
+  website: https://upennig.weebly.com
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
+    - network: ORCID
+      username: "0000-0001-5441-6130"
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: ulrich-pennig
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+    research_interests:
+      - "Operator algebras, algebraic topology"
+      - "(Twisted) K-theory and index theory"
+      - "Topological and conformal field theories"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+    academic_positions:
+      - company: Cardiff University
+        position: Senior Lecturer
+        start_date: "2019-08"
+        end_date: present
+      - company: Cardiff University
+        position: Lecturer
+        start_date: "2016-04"
+        end_date: "2019-07"
+      - company: University of Münster
+        position: Akademischer Rat auf Zeit
+        start_date: "2010-11"
+        end_date: "2016-03"
+      - company: University of Münster
+        position: Research Assistant
+        start_date: "2010-08"
+        end_date: "2010-10"
+      - company: University of Göttingen
+        position: Akademischer Rat auf Zeit
+        start_date: "2009-12"
+        end_date: "2010-07"
+      - company: Courant Research Center, Göttingen
+        position: Research Assistant
+        start_date: "2009-09"
+        end_date: "2009-11"
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+    education:
+      - institution: University of Münster
+        area: Mathematics
+        degree: Habilitation
+        end_date: "2016-07"
+      - institution: University of Göttingen
+        area: Mathematics
+        degree: Dr. rer. nat. (summa cum laude)
+        end_date: "2009-08"
+        summary: >
+          Thesis: "Twisted K-theory with coefficients in a C*-algebra and obstructions
+          against positive scalar curvature metrics." Advisor: Thomas Schick.
+      - institution: University of Göttingen
+        area: Theoretical Physics
+        degree: Diploma
+        end_date: "2006-05"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+    prizes_and_scholarships:
+      - bullet: "2026 — Outstanding Paper Prize, Journal of the Mathematical Society of Japan (JMSJ)"
+      - bullet: "2017 — Nomination for the Philip Leverhulme Prize"
+      - bullet: "2010 — Dissertation Prize 2009, Universitätsbund Göttingen"
+      - bullet: "2006–2009 — PhD Scholarship, Studienstiftung des deutschen Volkes (German National Academic Foundation)"
+      - bullet: "2003–2006 — Diplom Scholarship, Studienstiftung des deutschen Volkes"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    selected_publications:
+      - title: Computing cohomology groups that classify bundles of strongly self-absorbing C*-algebras
+        authors: Marius Dadarlat, James E. McClure, Ulrich Pennig
+        journal: Journal of Topology and Analysis
+        date: "2025"
+        doi: 10.1142/S1793525324500110
+      - title: Bundles of strongly self-absorbing C*-algebras with a Clifford grading
+        authors: Marius Dadarlat, Ulrich Pennig
+        journal: Journal of the Mathematical Society of Japan
+        date: "2025"
+        doi: 10.2969/jmsj/92259225
+      - title: Spectral sequence computation of higher twisted K-groups of SU(n)
+        authors: David Evans, Ulrich Pennig
+        journal: Communications of the American Mathematical Society
+        date: "2025"
+        doi: 10.1090/cams/60
+      - title: Spanier–Whitehead K-Duality and Duality of Extensions of C*-Algebras
+        authors: Ulrich Pennig, Taro Sogabe
+        journal: International Mathematics Research Notices
+        date: "2024"
+        doi: 10.1093/imrn/rnae242
+      - title: Interleaving Mayer–Vietoris spectral sequences
+        authors: Álvaro Torras-Casas, Ulrich Pennig
+        journal: Algebraic & Geometric Topology
+        date: "2024"
+        doi: 10.2140/agt.2024.24.4265
+      - note: >
+          Full publication list (28 entries, including preprints and theses)
+          available on the Publications page.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+    research_grants:
+      - name: "EPSRC Programme Grant (outline stage submitted), Co-Investigator"
+        summary: >
+          "Tensor Categories as a Unifying Language of Mathematics and Physics."
+          £3,964,694.40 total funding applied for. Collaborators: S. Wood,
+          T. Logvinenko, P. Naaijkens, F. Verstraete, A. Henriques.
+      - name: "Workshop: 38th British Topology Meeting, PI"
+        summary: >
+          £7,427 total (£5,427 LMS, £2,000 Heilbronn Small Grant). Collaborators:
+          V. Bianchi, D. Corro, J. Harvey, A. Yim.
+      - name: "Research network: Operator Algebras in the South of the UK, PI"
+        summary: >
+          £15,000 total (2022: £1,500 LMS; 2023: £7,000 INI; 2025 (CoI): £1,500 LMS,
+          £5,000 INI). Collaborators: V. Fischer, S. Nishikawa (2026–),
+          J. Spakula (–2025), S. White, S. Zadeh (2024–).
+      - name: "Workshop: Operator Algebras: Subfactors, K-theory and CFT, Co-Investigator"
+        summary: >
+          £29,685 total (£18,585 EPSRC, £5,600 Clay Mathematics Institute, £5,500 LMS).
+          Collaborators: G. Lechner, M. Pugh.
+      - name: "ICMS Research in Groups, PI"
+        summary: >
+          £2,500. Joint research project with C. Voigt on strongly self-absorbing
+          C*-algebras and homotopy theory; meeting held May 2022.
+      - name: "Cardiff Incoming Visiting Fellowship Scheme, PI"
+        summary: "£1,730, funding a research visit by M. Joachim in 2017."
+      - name: "IoP Grant: Yang-Baxter Equations Workshop, Co-Investigator"
+        summary: >
+          £1,200. Collaborators: G. Lechner (PI), S. Wood. Two-day workshop, 2016.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+    funded_phd_projects:
+      - name: "George Tridimas — Heilbronn Institute PhD Studentship"
+        summary: >
+          "Symmetries of C*-algebras through the lens of stable homotopy theory."
+          Studies homotopy types of classifying spaces associated to topological
+          2-groups arising from G-kernels and cocycle actions on strongly
+          self-absorbing C*-algebras.
+      - name: "Valerio Bianchi — EPSRC PhD Studentship"
+        summary: >
+          "K-theory of C*-algebras with applications in TQFT." Gave an equivariant
+          classification of UHF-algebra bundles with applications to the
+          Freed-Hopkins-Teleman theorem.
+      - name: "Álvaro Torras Casas — EPSRC PhD Studentship"
+        summary: >
+          "Persistent sheaf (co)homology." Studied applications of spectral
+          sequences in topological data analysis; developed the PerMaViss
+          software package for distributed persistent homology computation.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    selected_invited_visits:
+      - bullet: "11/2025 — Isaac Newton Institute, Cambridge: Quantum field theory with boundaries, impurities, and defects"
+      - bullet: "07/2025 — Isaac Newton Institute Programme, Belfast: Topological Groupoids and their C*-algebras"
+      - bullet: "09/2025 — RIMS, Kyoto (invited by N. Ozawa)"
+      - bullet: "05/2025 — University of Oxford (invited by S. White)"
+      - bullet: "03/2025 — KU Leuven (invited by G. Szabó)"
+      - bullet: "11–12/2024 — Isaac Newton Institute, Cambridge: Quantum information, quantum groups and operator algebras (research leave)"
+      - bullet: "10/2024 — Universität Regensburg (invited by U. Bunke, research leave)"
+      - bullet: "09–10/2024 — Universität Göttingen (invited by T. Schick, research leave)"
+      - bullet: "05/2024 — Dublin Institute for Advanced Studies (DIAS)"
+      - bullet: "06/2023 — Isaac Newton Institute, Cambridge: OAS Follow-On"
+      - bullet: "05/2022 — Research in Groups at ICMS"
+      - bullet: "2016–2021 — Additional visits to the Isaac Newton Institute, Simons Center for Geometry and Physics (New York), Copenhagen, Kyoto, Purdue, and Institut Mittag-Leffler"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    conference_organisation:
+      - name: "Operator Algebras in the South of the UK (ongoing series)"
+        summary: >
+          Co-organisers: V. Fischer, S. Nishikawa (2026–), J. Spakula (–2025),
+          S. White, S. Zadeh (2024–). Regular meetings in Cardiff, Southampton,
+          Bath, and Oxford since 2023.
+      - name: "38th British Topology Meeting, Cardiff, 09–11/09/2025"
+        summary: "Co-organisers: V. Bianchi, D. Corro, J. Harvey, A. Yim."
+      - name: "Bremen–Cardiff Workshop on Combinatorial Topology, Discrete Geometry and their Application to Data Science, Cardiff, 06–07/05/2025"
+        summary: "Co-organiser: I. Aliev."
+      - name: "Operator Algebras: Subfactors, K-Theory, Conformal Field Theory, Gregynog Hall, 27/07–02/08/2022"
+        summary: "Co-organisers: M. Izumi, G. Lechner, M. Pugh."
+      - name: "Additional conferences co-organised"
+        summary: >
+          Yang-Baxter Equations (12/2016), String Geometry Network Meeting
+          (08/2014, Münster), From Poisson to String Geometry (09/2012, Erlangen),
+          Young Topologists and New Topology (08/2006, Bedlewo).
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    teaching_activities:
+      - bullet: >
+          Designed and taught the Year 3 module MA3008 – Algebraic Topology every
+          spring semester since 2017 (approx. 30–40 students; overall satisfaction
+          85–100% across years with data available).
+      - bullet: >
+          Designed the material for the Year 2 module MA2008 – Linear Algebra II
+          in 2018 and taught it in 2018/19 and 2019/20.
+      - bullet: >
+          Taught the Year 1 module MA1005/MA1055 – Foundations of Mathematics I
+          to the full Year 1 cohort since 2020/21 (overall satisfaction 86–95%
+          across years; on research leave in 2024/25).
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    professional_service:
+      - bullet: >
+          Referee: Inventiones Mathematicae, Advances in Mathematics, Journal of
+          Functional Analysis, Algebraic & Geometric Topology, Transactions of the
+          AMS, Mathematical Physics Analysis and Geometry, IMRN.
+      - bullet: >
+          Grant reviews: EPSRC (Fellowships, Standard Research Grants, New
+          Investigator Awards), Leverhulme Trust (Visiting Professorships),
+          National Science Centre, Poland.
+      - bullet: >
+          Professional memberships: American Mathematical Society (AMS), London
+          Mathematical Society (LMS), Deutsche Mathematiker-Vereinigung (DMV).
