@@ -8,11 +8,15 @@ nav_order: 3
 
 ## PhD Students
 
-<div class="image-container">
-    <img src="assets/img/alvaro.jpeg">
-</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/alvaro.jpeg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
 **[Álvaro Torras Casas](https://alvaro-torras-casas.org/)**  
 Analysed the persistent Mayer-Vietoris spectral sequence. Successful viva in January 2022; currently a post-doc at the Universidad de Sevilla.
+    </div>
+</div>
 
 **Sam Richardson**  
 Studied rational characteristic classes associated to higher twists over $SU(n)$ via exponential functors. Successful viva in April 2023; on the job market for post-doc positions.
