@@ -8,6 +8,9 @@ nav_order: 3
 
 ## PhD Students
 
+<div class="image-container">
+    <img src="assets/img/alvaro.jpeg">
+</div>
 **[Álvaro Torras Casas](https://alvaro-torras-casas.org/)**  
 Analysed the persistent Mayer-Vietoris spectral sequence. Successful viva in January 2022; currently a post-doc at the Universidad de Sevilla.
 
