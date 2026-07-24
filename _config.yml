@@ -360,7 +360,7 @@ scholar:
   order: descending, descending
   group_by: type, year
   group_order: descending, descending
-  type_order: unpublished, article, phdthesis
+  type_order: [unpublished, article, thesis]
   type_names:
     unpublished: preprints
     article: journal articles
