@@ -357,9 +357,9 @@ scholar:
   bibtex_filters: [latex, smallcaps, superscript]
   
   sort_by: type, year
-  order: descending, descending
+  order: ascending, descending
   group_by: type, year
-  group_order: descending, descending
+  group_order: ascending, descending
   type_order: [unpublished, article, thesis]
   type_names:
     unpublished: preprints
