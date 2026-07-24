@@ -197,11 +197,6 @@ collections:
   teachings:
     output: true
 
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
-  
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
