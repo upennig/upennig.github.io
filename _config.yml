@@ -355,6 +355,18 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
+  
+  sort_by: type, year
+  order: descending, descending
+  group_by: type, year
+  group_order: descending, descending
+  type_order: unpublished, article, phdthesis
+  type_names:
+    unpublished: preprints
+    article: journal articles
+    thesis: theses          # jekyll-scholar auto-merges phdthesis + mastersthesis into "thesis"
+  type_aliases:
+    misc: unpublished        # merges your one @misc entry into the same "preprints" bucket
 
   replace_strings: true
   join_strings: true
