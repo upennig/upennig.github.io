@@ -17,8 +17,6 @@ profile:
 news: true
 selected_papers: false
 social: true
-nav: true
-nav_order: 1
 ---
 
 I am a [Senior Lecturer in Algebra and Topology](https://profiles.cardiff.ac.uk/staff/pennigu) at Cardiff University and a member of the research group Geometry, Algebra, Mathematical Physics and Topology (GAPT).
