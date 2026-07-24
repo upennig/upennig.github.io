@@ -3,14 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Ulrich
-middle_name:
-last_name: Pennig
-email: pennigu@cardiff.ac.uk
+first_name: You
+middle_name: R.
+last_name: Name
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Senior Lecturer in Algebra and Topology at Cardiff University. Website is Based on [*folio](https://github.com/bogoli/-folio) design.
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -19,8 +18,8 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://upennig.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://alshedivat.github.io # the base hostname & protocol for your site
+baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -61,7 +60,7 @@ al_folio:
     allow_remote_loader: true
   features:
     cv:
-      enabled: false
+      enabled: true
     distill:
       enabled: true
   compat:
@@ -130,10 +129,10 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -187,13 +186,13 @@ newsletter:
 
 collections:
   books:
-    output: false
+    output: true
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: false
+    output: true
   teachings:
     output: true
 
@@ -342,8 +341,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Pennig]
-  first_name: [Ulrich]
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
@@ -355,18 +354,6 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
-  
-  sort_by: type, year
-  order: descending, descending
-  group_by: type, year
-  group_order: descending, descending
-  type_order: unpublished, article, phdthesis
-  type_names:
-    unpublished: preprints
-    article: journal articles
-    thesis: theses          # jekyll-scholar auto-merges phdthesis + mastersthesis into "thesis"
-  type_aliases:
-    misc: unpublished        # merges your one @misc entry into the same "preprints" bucket
 
   replace_strings: true
   join_strings: true
@@ -375,14 +362,14 @@ scholar:
   details_link: Details
 
   query: "@*"
-#  group_by: year
-#  group_order: descending
+  group_by: year
+  group_order: descending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
-  altmetric: false # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: false # Dimensions badge (Customization options: https://badge.dimensions.ai/)
+  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
+  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
@@ -418,7 +405,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 5 # leave blank to always show all authors
+max_author_limit: 3 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
