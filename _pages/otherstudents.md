@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /students/
+permalink: /otherstudents/
 title: students
 nav: false
 ---

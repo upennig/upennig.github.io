@@ -1,10 +1,9 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /PhD/
 title: PhD students
 description: current and former PhD students
-nav: true
-nav_order: 10
+nav: false
 
 profiles:
   - align: right

@@ -6,9 +6,9 @@ nav_order: 8
 dropdown: true
 children:
   - title: PhD students
-  - permalink: profiles.md 
+  - permalink: /PhD/ 
   - title: divider
   - title: Co-Supervisions and MMath students
-  - permalink: otherstudents.md 
+  - permalink: /otherstudents/ 
 
 ---
