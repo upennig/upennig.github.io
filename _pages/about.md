@@ -21,7 +21,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 
+  limit: 10
   
 ---
 
