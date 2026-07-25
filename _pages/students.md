@@ -5,8 +5,10 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: profiles
+  - title: PhD students
+  - permalink: profiles.md 
   - title: divider
-  - title: otherstudents
+  - title: Co-Supervisions and MMath students
+  - permalink: otherstudents.md 
 
 ---
