@@ -6,23 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-## PhD Students
-
-<div class="col-4 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/alvaro.jpeg" class="img-fluid rounded z-depth-1" %}
-</div>
-**[Álvaro Torras Casas](https://alvaro-torras-casas.org/)**  
-Analysed the persistent Mayer-Vietoris spectral sequence. Successful viva in January 2022; currently a post-doc at the Universidad de Sevilla.
-
-**Sam Richardson**  
-Studied rational characteristic classes associated to higher twists over $SU(n)$ via exponential functors. Successful viva in April 2023; on the job market for post-doc positions.
-
-**[Valerio Bianchi](https://sites.google.com/view/valeriobianchi/home-page?authuser=0)**  
-Works on $C^*$-algebras with applications in topological quantum field theories.
-
-**Georgios Tridimas**  
-Working on topological invariants of $G$-kernels on strongly self-absorbing $C^*$-algebras.
-
 ## PhD Co-Supervision
 
 - **[James Binnie](https://profiles.cardiff.ac.uk/staff/binnieja)** (main supervisor: John Harvey) — using finite samples to estimate geometric quantities with topological data analysis

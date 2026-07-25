@@ -1,28 +1,41 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: PhD students
+description: current and former PhD students
 nav: true
-nav_order: 7
+nav_order: 10
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: alvaro.jpeg
+    content: alvaro-bio.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Álvaro Torras Casas</p>
+      <p>PhD 2018–2022</p>
+      <p>Now: post-doc, Universidad de Sevilla</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: sam.jpeg
+    content: sam-bio.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Sam Richardson</p>
+      <p>PhD 2019–2023</p>
+      <p>Now: on the job market</p>
+  - align: right
+    image: valerio-orig_orig.jpg
+    content: valerio-bio.md
+    image_circular: false
+    more_info: >
+      <p>Valerio Bianchi</p>
+      <p>PhD student</p>
+      <p>EPSRC PhD Studentship</p>
+  - align: left
+    content: george-bio.md
+    image_circular: false
+    more_info: >
+      <p>Georgios Tridimas</p>
+      <p>PhD student</p>
+      <p>Heilbronn Institute PhD Studentship</p>
 ---

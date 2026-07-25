@@ -1,0 +1,1 @@
+Álvaro analysed the persistent Mayer–Vietoris spectral sequence during his PhD, developing new algorithms for computing persistent homology and the PerMaViss software package for distributed computation. He had a successful viva in January 2022 and is currently a post-doc at the [Universidad de Sevilla](https://www.us.es/).
