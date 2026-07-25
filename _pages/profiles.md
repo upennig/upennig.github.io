@@ -14,7 +14,7 @@ profiles:
     more_info: >
       <p>Álvaro Torras Casas</p>
       <p>PhD 2018–2022</p>
-	  <p>EPSRC PhD studentship</p>
+      <p>EPSRC PhD studentship</p>
   - align: left
     image: sam.jpeg
     content: sam-bio.md
@@ -22,7 +22,7 @@ profiles:
     more_info: >
       <p>Sam Richardson</p>
       <p>PhD 2019–2023</p>
-	  <p>self-funded</p>
+      <p>self-funded</p>
   - align: right
     image: valerio-orig_orig.jpg
     content: valerio-bio.md
