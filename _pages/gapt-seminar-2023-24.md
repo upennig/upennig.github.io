@@ -118,6 +118,8 @@ Christian Korff (University of Glasgow)
 
 The ring of symmetric functions plays a central role in representation theory. It connects with exactly solvable lattice models of statistical mechanics and quantum many-body systems by observing that the eigenfunctions of the transfer matrices or Hamiltonian (the Bethe wave functions) are symmetric polynomials. For infinite lattices with suitable boundary conditions, one can use the transfer matrices of exactly solvable lattice models to obtain combinatorial formulae for vertex operators of symmetric functions. This links the area of statistical lattice models and quantum spin-chains (via the boson-fermion correspondence) with integrable hierarchies of PDEs such as the Kadomtsev-Petiashvili equation where it is known that particular solutions, tau-functions, are given by symmetric functions.
 
+<div style="margin-top: 3rem;"></div>
+
 ## Seminar Talks - Spring 2024
 
 **Thursday, 8th February 2024 15:10 - 16:00**

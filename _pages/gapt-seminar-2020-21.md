@@ -98,6 +98,8 @@ Representations up to homotopy of Lie algebroids on graded vector bundles are ex
 
 As a consequence, an obstruction to the existence of an infinitesimal ideal system in a Lie algebroid is given -- these objects are considered the right notion of ideal in the context of Lie algebroids.
 
+<div style="margin-top: 3rem;"></div>
+
 ## Seminar Talks - Spring 2021
 
 **Thursday, 4th February 2021 15:10 - 16:00 Zoom**

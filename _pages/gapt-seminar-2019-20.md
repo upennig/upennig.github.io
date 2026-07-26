@@ -113,6 +113,8 @@ This talk will focus on graph polynomials, which are polynomial valued graph inv
 
 Because of its importance the Tutte polynomial has been extended to various classes of combinatorial object. For some objects there is more than one definition of a "Tutte polynomial". For example, there are three different definitions for the Tutte polynomial of graphs in surfaces: M. Las Vergnas' 1978 polynomial, B. Bolloba's and O. Riordan's 2002 ribbon graph polynomial, and V. Kruskal's polynomial from 2011. On the other hand, for some objects, such as digraphs, there is no wholly satisfactory definition of a Tutte polynomial. Why is this? Why are there three different Tutte polynomials of graphs in surfaces? Which can claim to be the Tutte polynomial of a graph in a surface? More generally, what does it mean to be the Tutte polynomial of a class of combinatorial objects? In this talk I will describe a way to canonically construct Tutte polynomials of combinatorial objects, and, using this framework, will offer answers to these questions.
 
+<div style="margin-top: 3rem;"></div>
+
 ## Seminar Talks - Spring 2020
 
 **Thursday, 30th January 15:10 - 16:00 M/0.34**

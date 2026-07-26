@@ -91,6 +91,8 @@ In the setting of algebraic quantum field theory, the superselection sectors of 
 
 Based on joint work with Quan Chen and David Penneys.
 
+<div style="margin-top: 3rem;"></div>
+
 ## Seminar Talks - Spring 2022
 
 **Thursday, 3rd February 2022 15:10 - 16:00**

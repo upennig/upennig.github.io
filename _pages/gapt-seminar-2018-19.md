@@ -117,6 +117,8 @@ Matthew Buican (Queen Mary, London)
 Abstract:
 I will discuss recent progress connecting the physics of certain large classes of 4D superconformal field theories with logarithmic conformal field theories. I will then use this connection to discuss a bridge between the physics of these 4D theories and certain more familiar 2D rational conformal field theories.
 
+<div style="margin-top: 3rem;"></div>
+
 ## Seminar Talks - Spring 2019
 
 **Thursday 31st January 15:10 - 16:00 M/0.34**
