@@ -7,9 +7,7 @@ description: lecture on K-theory and the Hopf invariant
 ---
 
 
-## K-Theory ​and the Hopf invariant
-
-Content
+## k-theory and the hopf invariant
 
 A (not necessarily associative) \(\mathbb{R}\)-Algebra \(A\) with unit element is called real division algebra if every element \(a \neq 0\) in \(A\) is invertible. Examples of real division algebras are \(\mathbb{R}\) itself, the complex numbers \(\mathbb{C}\), the quaternions \(\mathbb{H}\) and the Cayley numbers \(\mathbb{O}\). In this lecture we will prove the following theorem: If \(\mathbb{R}^n\) has the structure of a real division algebra, then \(n \in \{1,2,4,8\}\). This implies that the above examples are actually the only division algebra structures on \(\mathbb{R}^n\).
 
@@ -21,7 +19,7 @@ This lecture is based on the material covered in the lecture Topology 1.
 
 Click [here](/k-theory-and-the-hopf-invariant-german/) for the german version of this site.
 
-Lecture Notes (in german)
+## lecture notes (in german)
 
 1. [Overview and Cohomology Theories](/assets/pdf/kt1-kohomologietheorien.pdf)
 2. [Vector Bundles](/assets/pdf/kt2-vektorbuendel.pdf)
@@ -30,12 +28,12 @@ Lecture Notes (in german)
    2. [Bott Periodicity - a proof sketch](/assets/pdf/kt3.2-bott-periodizitaet.pdf)
 4. [The Hopf invariant](/assets/pdf/kt4-hopf-invariante.pdf)
 
-Lecture Notes (written by Jannes Bantje)
+## lecture notes (written by Jannes Bantje)
 
 - [Skript](https://gitlab.com/JaMeZ-B/LaTeX-WWU/-/jobs/29831145/artifacts/file/KTheorie_SS15/K-Theorie.pdf)
 - [GitHub-Link](https://github.com/JaMeZ-B/latex-wwu/tree/master/KTheorie_SS15)
 
-Exercises and Solutions
+## exercises and solutions
 
 1. [List of exercises](/assets/pdf/aufgaben.pdf)
 2. [Local Triviality of \(TS^n\) (solution to ex. 1)](/assets/pdf/loesung1.pdf)
@@ -44,7 +42,7 @@ Exercises and Solutions
 5. [\(GL_n(\mathbb{C})\) is path connected (solution to ex. 8)](/assets/pdf/loesung4.pdf)
 6. [Product in K-Theory is graded commutative](/assets/pdf/graduiertkommutativ.pdf)
 
-Literature
+## literature
 
 - *Bratzler, C.; Lück, W.: [Topologische K-Theorie](http://www.math.kit.edu/iag7/lehre/semsauer2013s/media/course_k-theory.pdf), seminar notes in german*
 - *Atiyah, M.: K-Theory, W.A. Benjamin Inc., 1967*

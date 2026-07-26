@@ -7,9 +7,7 @@ description: Vorlesung über K-Theorie und die Hopf-Invariante
 ---
 
 
-## K-Theorie ​und die Hopf Invariante
-
-Inhalt
+## k-theorie und die Hopf Invariante
 
 Eine (nicht notwendigerweise assoziative) \(\mathbb{R}\)-Algebra \(A\) mit Einselement heißt *reelle Divisionsalgebra*, wenn jedes Element \(a \neq 0\) in \(A\) invertierbar ist. Beispiele für Divisionsalgebren sind \(\mathbb{R}\) selbst, die komplexen Zahlen \(\mathbb{C}\), die Quaternionen \(\mathbb{H}\) und die Cayley-Zahlen \(\mathbb{O}\). In dieser Vorlesung soll der folgende Satz bewiesen werden: Hat \(\mathbb{R}^n\) die Struktur einer reellen Divisionsalgebra, dann ist \(n \in \{1,2,4,8\}\). Hieraus folgt, dass die oben gegebenen Beispiele tatsächlich die einzigen Divisionsalgebrenstrukturen auf \(\mathbb{R}^n\) sind.
 
@@ -20,7 +18,7 @@ Die Veranstaltung baut lediglich auf dem Stoff der Vorlesung [Topologie 1](http:
 
 Please click [here](/k-theory-and-the-hopf-invariant/) for the English version of this page.
 
-Skript
+## skript
 
 1. [Überblick und Kohomologietheorien](/assets/pdf/kt1-kohomologietheorien.pdf)
 2. [Vektorbündel](/assets/pdf/kt2-vektorbuendel.pdf)
@@ -29,12 +27,12 @@ Skript
    2. [Bott-Periodizität - eine Beweisskizze](/assets/pdf/kt3.2-bott-periodizitaet.pdf)
 4. [Die Hopf-Invariante](/assets/pdf/kt4-hopf-invariante.pdf)
 
-Skript (von Jannes Bantje)
+## skript (von Jannes Bantje)
 
 - [Skript](https://github.com/JaMeZ-B/latex-wwu/blob/master/KTheorie_SS15/K-Theorie.pdf)
 - [GitHub-Link](https://github.com/JaMeZ-B/latex-wwu/tree/master/KTheorie_SS15)
 
-Übungen und Lösungen​
+## übungen und Lösungen
 
 1. [Liste mit Aufgaben](/assets/pdf/aufgaben.pdf)
 2. [Lokale Trivialität von TSn (Lösung zu Aufg. 1)](/assets/pdf/loesung1.pdf)
@@ -43,7 +41,7 @@ Skript (von Jannes Bantje)
 5. [\(GL_n(\mathbb{C})\) ist wegzusammenhängend (Lösung zu Aufg. 8)](/assets/pdf/loesung4.pdf)
 6. [Produkt in K-Theorie graduiert kommutativ](/assets/pdf/graduiertkommutativ.pdf)
 
-Literatur
+## literatur
 
 - *Bratzler, C.; Lück, W.: [Topologische K-Theorie](http://www.math.kit.edu/iag7/lehre/semsauer2013s/media/course_k-theory.pdf), seminar notes in german*
 - *Atiyah, M.: K-Theory, W.A. Benjamin Inc., 1967*
