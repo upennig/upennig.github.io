@@ -15,7 +15,7 @@ description: archive of GAPT seminar talks, autumn 2021 and spring 2022
 Sara Azzali (Universität Greifswald)
 The Baum-Connes correspondence for the pure braid group
 
-The Baum-Connes conjecture can be seen as a far reaching generalisation of the Atiyah--Singer index theorem. Given a locally compact group \(G\), the conjecture predicts an isomorphisms between a topological and an analytic object constructed from \(G\). One of the main motivations of the Baum-Connes conjecture comes from the case of discrete groups, where it implies the Novikov conjecture on the homotopy invariance of higher signatures. We first give an introduction to the topic, then we look at examples of explicit computations of the left and right hand side of the Baum-Connes correspondence. In particular we discuss certain braid groups. For this class of groups the conjecture is known to be true in by results of Oyono-Oyono, Chabert-Echterhoff, Schick.
+The Baum-Connes conjecture can be seen as a far reaching generalisation of the Atiyah--Singer index theorem. Given a locally compact group \\(G\\), the conjecture predicts an isomorphisms between a topological and an analytic object constructed from \\(G\\). One of the main motivations of the Baum-Connes conjecture comes from the case of discrete groups, where it implies the Novikov conjecture on the homotopy invariance of higher signatures. We first give an introduction to the topic, then we look at examples of explicit computations of the left and right hand side of the Baum-Connes correspondence. In particular we discuss certain braid groups. For this class of groups the conjecture is known to be true in by results of Oyono-Oyono, Chabert-Echterhoff, Schick.
 
 The talk is based on joint work with Sarah Browne, Maria Paula Gomez, Lauren Ruth and Hang Wang.
 
@@ -28,9 +28,9 @@ From quantum fields to local algebras: strong locality **without** linear energy
 
 A family of quantum fields is said to be strongly local if it generates a local net of von Neumann algebras. Unfortunately, there have been very few direct methods proposed for showing strong locality of a quantum field. Among them, linear energy bounds are the most widely used.
 
-The problem is especially interesting in the conformal chiral setting, where there are plenty of existing unitary VOA models; i.e. quantum fields given in a rather concrete manner. However, a chiral conformal field of conformal weight \(d > 2\) cannot admit linear energy bounds. Nevertheless, we prove that if a chiral conformal field satisfies an energy bound of degree \(d−1\), then it also satisfies a certain local version of the energy bound, and this in turn implies strong locality. A central role in our proof is played by diffeomorphism symmetry.
+The problem is especially interesting in the conformal chiral setting, where there are plenty of existing unitary VOA models; i.e. quantum fields given in a rather concrete manner. However, a chiral conformal field of conformal weight \\(d > 2\\) cannot admit linear energy bounds. Nevertheless, we prove that if a chiral conformal field satisfies an energy bound of degree \\(d−1\\), then it also satisfies a certain local version of the energy bound, and this in turn implies strong locality. A central role in our proof is played by diffeomorphism symmetry.
 
-As a concrete application, we show that the vertex operator algebra given by a unitary vacuum representation of the \(W_3\)-algebra is strongly local. For central charge \(c>2\), this yields a new conformal net. We further prove that these nets do not satisfy strong additivity, and hence are not completely rational.
+As a concrete application, we show that the vertex operator algebra given by a unitary vacuum representation of the \\(W_3\\)-algebra is strongly local. For central charge \\(c>2\\), this yields a new conformal net. We further prove that these nets do not satisfy strong additivity, and hence are not completely rational.
 
 ---
 
@@ -48,7 +48,7 @@ I shall discuss topological quantum field theories on 2-dimensional bordisms wit
 Federico Barbacovi (University College London) **- on Zoom**
 Categorical dynamics
 
-A topological dynamical system is given by a topological space \(X\) and a continuous map \(f : X \to X\). To such a couple \((X,f)\) one can associate an invariant called the topological entropy of \(f\), which is a non-negative extended real number. A famous theorem of Gromov and Yomdin says that when \(X\) is a smooth, projective variety, and \(f\) is a holomorphic automorphism, the topological entropy of \(f\) can be computed by looking at the action of \(f\) on the (algebraic part of the) cohomology. For the derived-category-minded geometer, it is therefore natural to ask whether such result is the shadow of some statement that holds at the level of derived categories.
+A topological dynamical system is given by a topological space \\(X\\) and a continuous map \\(f : X \to X\\). To such a couple \\((X,f)\\) one can associate an invariant called the topological entropy of \\(f\\), which is a non-negative extended real number. A famous theorem of Gromov and Yomdin says that when \\(X\\) is a smooth, projective variety, and \\(f\\) is a holomorphic automorphism, the topological entropy of \\(f\\) can be computed by looking at the action of \\(f\\) on the (algebraic part of the) cohomology. For the derived-category-minded geometer, it is therefore natural to ask whether such result is the shadow of some statement that holds at the level of derived categories.
 In this talk I will introduce the notion of categorical dynamical system as defined by Dimitrov-Haiden-Katzarkov-Kontsevich and I will report on joint work with Jongmyeong Kim in which we tackle Kikuta-Takahashi's conjecture (which will be introduced during the talk) both in the negative direction (producing new counterexamples) and positive direction (giving condition that ensure that it holds - at least in a weak sense).
 
 ---
@@ -60,9 +60,9 @@ Motion groupoids & mapping class groupoids
 
 The braiding statistics of point particles in 2-dimensional topological phases are given by representations of the braid groups. One approach to the study of generalised particles in topological phases, loop particles in 3-dimensions for example, is to generalise (some of) the several different realisations of the braid group.
 
-In this talk I will construct for each manifold \(M\) its motion groupoid \(Mot_M\), whose object class is the power set of \(M\). I will also give a construction of a mapping class groupoid \(MCG_M\) associated to a manifold \(M\) with the same object class. I will give examples which frame questions that inform the modelling of topological phases, such as questions about the skeletons of these categories.
+In this talk I will construct for each manifold \\(M\\) its motion groupoid \\(Mot_M\\), whose object class is the power set of \\(M\\). I will also give a construction of a mapping class groupoid \\(MCG_M\\) associated to a manifold \\(M\\) with the same object class. I will give examples which frame questions that inform the modelling of topological phases, such as questions about the skeletons of these categories.
 
-For each manifold \(M\) I will construct a functor \(F\colon Mot_M \to MCG_M\) and prove that this is an isomorphism if \(\pi_0\) and \(\pi_1\) of the appropriate space of self-homeomorphisms of \(M\) is trivial. In particular there is an isomorphism in the physically important case \(M=[0,1]^n\) with fixed boundary, for any \(n\in \mathbb{N}\).
+For each manifold \\(M\\) I will construct a functor \\(F\colon Mot_M \to MCG_M\\) and prove that this is an isomorphism if \\(\pi_0\\) and \\(\pi_1\\) of the appropriate space of self-homeomorphisms of \\(M\\) is trivial. In particular there is an isomorphism in the physically important case \\(M=[0,1]^n\\) with fixed boundary, for any \\(n\in \mathbb{N}\\).
 
 ---
 
@@ -80,7 +80,7 @@ Classically, the notion of symmetry is described by a group. In recent decades, 
 Corey Jones (North Carolina State University)
 Braided tensor categories from von Neumann algebras.
 
-In the setting of algebraic quantum field theory, the superselection sectors of a net of von Neumann algebras naturally form a braided tensor category. In this talk we will explain an analogous construction which assigns a braided tensor category to a single von Neumann algebra, despite the absence of spatial degrees of freedom. Our construction builds on the work of Connes, Jones and Popa, and extends Connes' \(\chi(M)\) invariant. We will highlight several parallels to the theory of conformal nets, and show that for any finite depth inclusion \(N\subseteq M\) of non-Gamma \(II_1\) factors, the braided tensor category associated to the enveloping algebra \(M_{\infty}\) is the Drinfeld center of the original standard invariant.
+In the setting of algebraic quantum field theory, the superselection sectors of a net of von Neumann algebras naturally form a braided tensor category. In this talk we will explain an analogous construction which assigns a braided tensor category to a single von Neumann algebra, despite the absence of spatial degrees of freedom. Our construction builds on the work of Connes, Jones and Popa, and extends Connes' \\(\chi(M)\\) invariant. We will highlight several parallels to the theory of conformal nets, and show that for any finite depth inclusion \\(N\subseteq M\\) of non-Gamma \\(II_1\\) factors, the braided tensor category associated to the enveloping algebra \\(M_{\infty}\\) is the Drinfeld center of the original standard invariant.
 
 Based on joint work with Quan Chen and David Penneys.
 
@@ -122,7 +122,7 @@ This talk is based on joint work with Jean Liénardy and Sandrine Brasseur and o
 Severin Bunk (University of Oxford)
 Higher symmetries of gerbes
 
-Gerbes are geometric objects describing the third integer cohomology group of a manifold and the \(B\)-field in string theory. Like line bundles, they admit connections and gauge symmetries. In contrast to line bundles, however, there are now isomorphisms between gauge symmetries: the gauge group of a gerbe is a smooth 2-group. Starting from a hands-on example, I will explain gerbes and some of their properties. The main topic of this talk will then be the study of symmetries of gerbes on a manifold with \(G\)-action, and how these symmetries assemble into smooth 2-group extensions of \(G\). In the last part, I will survey how this construction can be used to provide a new smooth model for the string group, via a theory of \(\infty\)-categorical principal bundles and group extensions.
+Gerbes are geometric objects describing the third integer cohomology group of a manifold and the \\(B\\)-field in string theory. Like line bundles, they admit connections and gauge symmetries. In contrast to line bundles, however, there are now isomorphisms between gauge symmetries: the gauge group of a gerbe is a smooth 2-group. Starting from a hands-on example, I will explain gerbes and some of their properties. The main topic of this talk will then be the study of symmetries of gerbes on a manifold with \\(G\\)-action, and how these symmetries assemble into smooth 2-group extensions of \\(G\\). In the last part, I will survey how this construction can be used to provide a new smooth model for the string group, via a theory of \\(\infty\\)-categorical principal bundles and group extensions.
 
 ---
 
@@ -167,7 +167,7 @@ There is a long-standing conjecture that to every subfactor, there exists a corr
 Matina Trachana (Cardiff University)
 On a solution of the multidimensional truncated matrix-valued moment problem
 
-We consider the truncated multidimensional matrix-valued moment problem. We present necessary and sufficient conditions for a given truncated \(p \times p\) Hermitian matrix-valued multisequence to have a minimal positive semidefinite matrix-valued representing measure. The support of the representing measure is also described. Moreover, we shall discuss the bivariate quadratic matrix-valued moment problem. The talk is based on joint work with David Kimsey.
+We consider the truncated multidimensional matrix-valued moment problem. We present necessary and sufficient conditions for a given truncated \\(p \times p\\) Hermitian matrix-valued multisequence to have a minimal positive semidefinite matrix-valued representing measure. The support of the representing measure is also described. Moreover, we shall discuss the bivariate quadratic matrix-valued moment problem. The talk is based on joint work with David Kimsey.
 
 ---
 
@@ -176,7 +176,7 @@ We consider the truncated multidimensional matrix-valued moment problem. We pres
 Anne-Sophie Kaloghiros (Brunel University London)
 1-dimensional K-moduli spaces of Fano 3-folds
 
-Recent advances in the study of K-stability have shown that there is a projective good moduli space of K-polystable Q-Gorenstein smoothable Q-Fano varieties of dimension \(n\) and volume \(V\).
+Recent advances in the study of K-stability have shown that there is a projective good moduli space of K-polystable Q-Gorenstein smoothable Q-Fano varieties of dimension \\(n\\) and volume \\(V\\).
 
 The classification of smooth Fano 3-folds is due to Iskovshikh, Mori and Mukai and dates back to the 80s. While the classification is non-modular, it contains rich information on the geometry of Fano 3-folds. Fano 3-folds offer a rich source of examples in which we can explicitly construct and understand some K-moduli spaces.
 
@@ -191,6 +191,6 @@ This is joint work with Abban, Cheltsov, Jiao, Martinez-Garcia, Papazachariou an
 Simona Paoli (University of Aberdeen)
 From Homotopy Theory to Higher categories.
 
-Topological spaces can be studied by breaking them into building blocks, called \(n\)-types, using a classical construction in homotopy theory, the Postnikov decomposition. The desire to model algebraically the building blocks of spaces was one of the motivations for the development of higher groupoids, generalizing the fundamental groupoid of a space. In this talk I will first illustrate how this naturally leads to the need to encode weakly associative and weakly unital compositions of higher morphisms in a higher groupoid and I will discuss the challenges that this poses.
+Topological spaces can be studied by breaking them into building blocks, called \\(n\\)-types, using a classical construction in homotopy theory, the Postnikov decomposition. The desire to model algebraically the building blocks of spaces was one of the motivations for the development of higher groupoids, generalizing the fundamental groupoid of a space. In this talk I will first illustrate how this naturally leads to the need to encode weakly associative and weakly unital compositions of higher morphisms in a higher groupoid and I will discuss the challenges that this poses.
 More generally, structures arising in mathematical physics, namely topological quantum field theories, call for the need to define a notion of higher category, in which higher morphisms are not necessarily invertible.
 The precise formalization of the notions of higher groupoids and higher categories can be achieved through several combinatorial machineries. I will introduce one of the approaches arising from homotopy theory, based on the notion of multisimplicial sets. I will finally briefly discuss why this approach is promising in terms of proving a long-standing open conjecture in higher category theory.

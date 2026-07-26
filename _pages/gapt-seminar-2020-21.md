@@ -34,7 +34,7 @@ Symmetry is frequently exploited in Mathematics, but there are many situations i
 Irakli Patchkoria (University of Aberdeen)
 Equivariant Stallings-Swan theorem and cohomology of orbit categories
 
-Given a discrete group \(G\) and a family of subgroups \(F\), a conjecture in geometric group theory asserts that the geometric dimension of \(G\) with respect to \(F\) is equal to 1 if and only if the cohomological dimension of the orbit category \(O_F(G)\) associated to \(F\) is equal to 1. The conjecture is known to be true for certain families: the trivial family (Stallings-Swan), the family of all finite subgroups (Dunwoody), and the family of virtually cyclic subgroups (Degrijse) among others. We prove the conjecture for any family \(F\) which does not contain the family of all finite subgroups. As a consequence one obtains a cohomological characterisation of free groups with an action of finite group and invariant basis. This is an equivariant version of the classical Stallings-Swan theorem. We will also discuss applications to the equivariant LS category. The talk will introduce basic concepts at the beginning and should be accessible to a general audience. This is all joint work with Mark Grant and Ehud Meir.
+Given a discrete group \\(G\\) and a family of subgroups \\(F\\), a conjecture in geometric group theory asserts that the geometric dimension of \\(G\\) with respect to \\(F\\) is equal to 1 if and only if the cohomological dimension of the orbit category \\(O_F(G)\\) associated to \\(F\\) is equal to 1. The conjecture is known to be true for certain families: the trivial family (Stallings-Swan), the family of all finite subgroups (Dunwoody), and the family of virtually cyclic subgroups (Degrijse) among others. We prove the conjecture for any family \\(F\\) which does not contain the family of all finite subgroups. As a consequence one obtains a cohomological characterisation of free groups with an action of finite group and invariant basis. This is an equivariant version of the classical Stallings-Swan theorem. We will also discuss applications to the equivariant LS category. The talk will introduce basic concepts at the beginning and should be accessible to a general audience. This is all joint work with Mark Grant and Ehud Meir.
 
 ---
 
@@ -52,7 +52,7 @@ Representations of braid groups appear in many (related) guises, as sources of k
 Eleonore Faber (University of Leeds)
 Infinite constructions: Grassmannian categories of infinite rank and triangulations of an infinity-gon
 
-The homogeneous coordinate ring of the Grassmannian of \(k\)-dimensional subspaces in \(n\)-space carries a natural structure of a cluster algebra. There is an additive categorification of this coordinate ring into a so-called Grassmannian cluster category \(C(k,n)\), as shown by Jensen, King, and Su in 2016. In particular, the cluster category \(C(2,n)\) models triangulations of a regular \(n\)-gon. A natural question is, if there is some kind of limit construction, i.e., the category "\(C(2,\infty)\)" and how to model triangulations of a regular "\(\infty\)-gon".
+The homogeneous coordinate ring of the Grassmannian of \\(k\\)-dimensional subspaces in \\(n\\)-space carries a natural structure of a cluster algebra. There is an additive categorification of this coordinate ring into a so-called Grassmannian cluster category \\(C(k,n)\\), as shown by Jensen, King, and Su in 2016. In particular, the cluster category \\(C(2,n)\\) models triangulations of a regular \\(n\\)-gon. A natural question is, if there is some kind of limit construction, i.e., the category "\\(C(2,\infty)\\)" and how to model triangulations of a regular "\\(\infty\\)-gon".
 This talk is about a categorification of the homogeneous coordinate rings of Grassmannians of infinite rank in terms of graded maximal Cohen-Macaulay modules/matrix factorizations over a hypersurface singularity. This gives an infinite rank analogue of the categories of Jensen, King, and Su. We show that there is a structure preserving bijection between the generically free rank one modules in a Grassmannian category of infinite rank and the Plücker coordinates in a Grassmannian cluster algebra of infinite rank.
 In a special case, when the hypersurface singularity is a curve of countable Cohen-Macaulay type, our category has a combinatorial model by an "infinity-gon" and we can determine triangulations of this infinity-gon.
 This is joint work with Jenny August, Man-Wai Cheung, Sira Gratz, and Sibylle Schroll.
@@ -64,7 +64,7 @@ This is joint work with Jenny August, Man-Wai Cheung, Sira Gratz, and Sibylle Sc
 Marius Dadarlat (Purdue University)
 Obstructions to matrix stability of discrete groups
 
-A discrete countable group is matricially stable if its finite dimensional approximate unitary representations are perturbable to genuine representations in the point-norm topology. We aim to explain in accessible terms why matricial stability for a group \(G\) implies the vanishing of the rational even cohomology of \(G\) for large classes of groups, including the linear groups.
+A discrete countable group is matricially stable if its finite dimensional approximate unitary representations are perturbable to genuine representations in the point-norm topology. We aim to explain in accessible terms why matricial stability for a group \\(G\\) implies the vanishing of the rational even cohomology of \\(G\\) for large classes of groups, including the linear groups.
 
 ---
 
@@ -106,7 +106,7 @@ I am planning to give a general introduction to sofic groups, mention a few appl
 Dominic Verdon (University of Bristol)
 Frobenius algebras, fibre functors and entanglement-assisted transformations of covariant channels
 
-I will first recall that finite-dimensional C\*-algebras and completely positive trace preserving maps precisely correspond to special symmetric Frobenius algebras and counit-preserving CP morphisms in the category of finite-dimensional Hilbert spaces and linear maps. I will extend this result to a Frobenius-algebraic characterisation of \(G\)-C\*-algebras and covariant channels for a compact quantum group \(G\), using Tannaka-Krein-Woronowicz duality for fibre functors on the rigid C\*-tensor category Rep(\(G\)). I will then introduce unitary pseudonatural transformations (UPTs) between fibre functors, a higher-dimensional generalisation of unitary monoidal natural transformations, and show how these UPTs give rise to reversible entanglement-assisted transformations of covariant classical and quantum channels generalising quantum teleportation and dense coding.
+I will first recall that finite-dimensional \\(C^*\\)-algebras and completely positive trace preserving maps precisely correspond to special symmetric Frobenius algebras and counit-preserving CP morphisms in the category of finite-dimensional Hilbert spaces and linear maps. I will extend this result to a Frobenius-algebraic characterisation of \\(G\\)-\\(C^*\\)-algebras and covariant channels for a compact quantum group \\(G\\), using Tannaka-Krein-Woronowicz duality for fibre functors on the rigid \\(C^*\\)-tensor category Rep(\\(G\\)). I will then introduce unitary pseudonatural transformations (UPTs) between fibre functors, a higher-dimensional generalisation of unitary monoidal natural transformations, and show how these UPTs give rise to reversible entanglement-assisted transformations of covariant classical and quantum channels generalising quantum teleportation and dense coding.
 
 ---
 
@@ -126,7 +126,7 @@ This is joint work with Gestur Olafsson (Baton Rouge) and Vincenzo Morinelli (Ro
 Sara Azzali (Universität Hamburg) - **talk postponed**
 Discrete group actions and Baum-Connes correspondence for the pure braid group
 
-The Baum-Connes conjecture predicts an isomorphism between two objects associated with a discrete countable group G. The first one is topological in nature and involves a classifying space for proper G-actions; the second one is analytic and involves the \(K\)-theory of the C\*-algebra of G.
+The Baum-Connes conjecture predicts an isomorphism between two objects associated with a discrete countable group G. The first one is topological in nature and involves a classifying space for proper G-actions; the second one is analytic and involves the \\(K\\)-theory of the \\(C^*\\)-algebra of G.
 
 We introduce the subject and give some examples of explicit computations, in particular for certain braid groups. For this class of groups the conjecture is known to be true by results of Oyono-Oyono, Chabert-Echterhoff, Schick.
 
@@ -148,7 +148,7 @@ The analysis of time-varying systems using topological methods has gained consid
 Florencia Orosz Hunziker (University of Colorado)
 Tensor categories for non-rational Virasoro vertex algebras
 
-The minimal models are representations of the Virasoro algebra for particular central charges \(c_{p,q}\). For these central charges the category of representations has finitely many irreducibles which give rise to a rational conformal field theory. In this talk, we focus on the non rational central charges where the number of irreducible representations is infinite. In particular, we prove that there is a braided tensor category structure on a natural subcategory of representations of the Virasoro algebra for arbitrary central charge. This talk is based on joint work with Thomas Creutzig, Cuibo Jiang, David Ridout and Jinwei Yang.
+The minimal models are representations of the Virasoro algebra for particular central charges \\(c_{p,q}\\). For these central charges the category of representations has finitely many irreducibles which give rise to a rational conformal field theory. In this talk, we focus on the non rational central charges where the number of irreducible representations is infinite. In particular, we prove that there is a braided tensor category structure on a natural subcategory of representations of the Virasoro algebra for arbitrary central charge. This talk is based on joint work with Thomas Creutzig, Cuibo Jiang, David Ridout and Jinwei Yang.
 
 ---
 

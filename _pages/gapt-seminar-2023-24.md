@@ -15,7 +15,7 @@ description: archive of GAPT seminar talks, autumn 2023 and spring 2024
 Ryo Yamagishi (University of Bath)
 Moduli spaces of G-constellations
 
-For a finite subgroup G of \(SL_n(\mathbb{C})\), a moduli space of G-constellations is a generalization of the G-Hilbert scheme and is important from the viewpoint of the (derived) McKay correspondence. In this talk I will explain its basic properties and give an outline of the proof of the following conjecture of Craw and Ishii: every projective crepant resolution of the quotient variety \(\mathbb{C}^3/G\) is isomorphic to a moduli space of G-constellations for some stability condition.
+For a finite subgroup G of \\(SL_n(\mathbb{C})\\), a moduli space of G-constellations is a generalization of the G-Hilbert scheme and is important from the viewpoint of the (derived) McKay correspondence. In this talk I will explain its basic properties and give an outline of the proof of the following conjecture of Craw and Ishii: every projective crepant resolution of the quotient variety \\(\mathbb{C}^3/G\\) is isomorphic to a moduli space of G-constellations for some stability condition.
 
 ---
 
@@ -24,7 +24,7 @@ For a finite subgroup G of \(SL_n(\mathbb{C})\), a moduli space of G-constellati
 Emanuele Dotto (University of Warwick)
 Characteristic polynomials of self-adjoint endomorphisms
 
-The algebraic properties of the characteristic polynomial of a matrix can be efficiently packaged by expressing the characteristic polynomial as a ring homomorphism from the cyclic K-theory ring to the ring of Witt vectors. This homomorphism can moreover be interpreted as the effect in \(\pi_0\) of a homotopy theoretic trace map. The talk will introduce these ideas and explain how, by extending them to an equivariant context, they give rise to a refined version of the characteristic polynomial for self-adjoint endomorphisms.
+The algebraic properties of the characteristic polynomial of a matrix can be efficiently packaged by expressing the characteristic polynomial as a ring homomorphism from the cyclic K-theory ring to the ring of Witt vectors. This homomorphism can moreover be interpreted as the effect in \\(\pi_0\\) of a homotopy theoretic trace map. The talk will introduce these ideas and explain how, by extending them to an equivariant context, they give rise to a refined version of the characteristic polynomial for self-adjoint endomorphisms.
 
 ---
 
@@ -53,7 +53,7 @@ In this talk I will briefly present connections of these generalized symmetries 
 Veronika Pedić (University of Zagreb)
 Vertex algebras and their orbifolds
 
-Orbifold constructions are one of the basic ways to construct new vertex algebras from given ones. The idea of orbifold theory of vertex algebras is to take a vertex algebra \(V\) and some group of its automorphisms \(G\), and study the representation theory of the fixed point subalgebra \(V^G\). This theory was initiated in the 90s by C. Dong and G. Mason, however, it was applicable only to rational vertex algebras. In this talk we present various extensions of this work to much larger categories of weak modules. Furthermore, we present applications to the case of Weyl vertex algebra and Whittaker modules.
+Orbifold constructions are one of the basic ways to construct new vertex algebras from given ones. The idea of orbifold theory of vertex algebras is to take a vertex algebra \\(V\\) and some group of its automorphisms \\(G\\), and study the representation theory of the fixed point subalgebra \\(V^G\\). This theory was initiated in the 90s by C. Dong and G. Mason, however, it was applicable only to rational vertex algebras. In this talk we present various extensions of this work to much larger categories of weak modules. Furthermore, we present applications to the case of Weyl vertex algebra and Whittaker modules.
 This is joint work with D. Adamović, C.-H. Lam and N. Yu.
 
 ---
@@ -135,7 +135,7 @@ First, we will review the construction of the tensor product for affine Lie alge
 Jamal Shafiq (Cardiff University)
 Vector-valued modular forms arising from the affine sl(2) VOA
 
-After a preamble on the necessary background in vertex operator algebras (VOAs) and modular forms, including the notion of vector-valued modular forms, 1-point functions for the affine VOA associated to \(\mathfrak{sl}(2)\) are introduced. These are a natural generalisation of characters in conformal field theory by considering any module of the VOA acting rather than simply the vacuum. The connection to modularity is motivated and organising these 1-point functions into vector-valued modular forms, results are presented on the congruence properties of the representations under which these transform. Furthermore, explicit generators for the spaces of vector-valued modular forms up to dimension three are calculated.
+After a preamble on the necessary background in vertex operator algebras (VOAs) and modular forms, including the notion of vector-valued modular forms, 1-point functions for the affine VOA associated to \\(\mathfrak{sl}(2)\\) are introduced. These are a natural generalisation of characters in conformal field theory by considering any module of the VOA acting rather than simply the vacuum. The connection to modularity is motivated and organising these 1-point functions into vector-valued modular forms, results are presented on the congruence properties of the representations under which these transform. Furthermore, explicit generators for the spaces of vector-valued modular forms up to dimension three are calculated.
 
 ---
 
@@ -144,7 +144,7 @@ After a preamble on the necessary background in vertex operator algebras (VOAs) 
 Daniel Drimbe (University of Oxford)
 Rigidity theory in von Neumann algebras and orbit equivalence
 
-In the early 1940s, Murray and von Neumann found a natural way to associate a von Neumann algebra to any countable group \(G\) and to any measure preserving action of it. The classification of von Neumann algebras has since been a central theme in operator algebras driven by the following fundamental question: what aspects of the group \(G\) or of a measure preserving action of \(G\) are remembered by their associated von Neumann algebras? The goal of this talk is to present major breakthroughs in the theory of von Neumann algebras and orbit equivalence and to survey some of the progress made recently using Popa's deformation/rigidity theory.
+In the early 1940s, Murray and von Neumann found a natural way to associate a von Neumann algebra to any countable group \\(G\\) and to any measure preserving action of it. The classification of von Neumann algebras has since been a central theme in operator algebras driven by the following fundamental question: what aspects of the group \\(G\\) or of a measure preserving action of \\(G\\) are remembered by their associated von Neumann algebras? The goal of this talk is to present major breakthroughs in the theory of von Neumann algebras and orbit equivalence and to survey some of the progress made recently using Popa's deformation/rigidity theory.
 
 ---
 
@@ -160,9 +160,9 @@ Laplacians have been developed for a broad range of discrete structures, ranging
 **Thursday, 14th March 2024 15:10 - 16:00**
 
 Arthur Pander Maat (Queen Mary University London)
-The Morita homotopy theory of C\*-categories
+The Morita homotopy theory of \\(C^*\\)-categories
 
-C\*-categories are a horizontal categorification of C\*-algebras, sharing many of their fundamental properties, including an appropriate notion of Hilbert modules. One advantage of generalizing from C\*-algebras with C\*-categories is that taking the C\*-category of Hilbert modules becomes an endofunctor on the category of C\*-categories. After giving an introduction to C\*-categories, we use an Eilenberg-Watts theorem, to show that this endofunctor is a reflective localization, giving a model for the *Morita homotopy theory* of operator algebraic objects. We give several applications, including a new model for KK-theory.
+\\(C^*\\)-categories are a horizontal categorification of \\(C^*\\)-algebras, sharing many of their fundamental properties, including an appropriate notion of Hilbert modules. One advantage of generalizing from \\(C^*\\)-algebras with \\(C^*\\)-categories is that taking the \\(C^*\\)-category of Hilbert modules becomes an endofunctor on the category of \\(C^*\\)-categories. After giving an introduction to \\(C^*\\)-categories, we use an Eilenberg-Watts theorem, to show that this endofunctor is a reflective localization, giving a model for the *Morita homotopy theory* of operator algebraic objects. We give several applications, including a new model for KK-theory.
 
 ---
 
