@@ -31,9 +31,9 @@ In the 1970s, Coxeter studied certain arrays of integers that form friezes in th
 **Thursday, 17th October 15:10 - 16:00 M/0.34**
 
 Joan Bosa (Universitat Autònoma de Barcelona)
-Classification of separable nuclear unital simple C*-algebras. History and final results.
+Classification of separable nuclear unital simple C\*-algebras. History and final results.
 
-Over the last decade, our understanding of simple, nuclear \(C^*\)-algebras has improved a lot. This is thanks to the the interplay between certain topological and algebraic regularity properties, such as nuclear dimension of \(C^*\)-algebras, tensorial absorption of suitable strongly self-absorbing \(C^*\)-algebras and order completeness of homological invariants. In particular, this is reﬂected in the Toms-Winter conjecture. In this talk I will speak about this problem, and explain the general classification of nuclear simple \(C^*\)-algebras using the ﬁnite nuclear dimension (done in two groundbreaking articles by Elliott-Gong-Lin-Niu and Tikuisis-White-Winter). If time permits, I will also show some research built up from the classification just explained.
+Over the last decade, our understanding of simple, nuclear C\*-algebras has improved a lot. This is thanks to the the interplay between certain topological and algebraic regularity properties, such as nuclear dimension of C\*-algebras, tensorial absorption of suitable strongly self-absorbing C\*-algebras and order completeness of homological invariants. In particular, this is reﬂected in the Toms-Winter conjecture. In this talk I will speak about this problem, and explain the general classification of nuclear simple C\*-algebras using the ﬁnite nuclear dimension (done in two groundbreaking articles by Elliott-Gong-Lin-Niu and Tikuisis-White-Winter). If time permits, I will also show some research built up from the classification just explained.
 
 ---
 
@@ -69,7 +69,7 @@ We demonstrate how new integrable nonlocal systems in space and/or time can be c
 Christian Bönicke (Glasgow)
 On the K-theory of ample groupoid algebras
 
-It is a difficult problem to compute the K-theory of a crossed product of a \(C^*\)-algebra by a groupoid. One approach is given by the Baum-Connes conjecture, which asserts that a certain assembly map from the topological K-theory of the groupoid G with coefficients in a G-\(C^*\)-algebra \(A\) into the K-theory of the associated reduced crossed product is an isomorphism. In this talk I will present a method that allows one to deal with certain questions concerning the left hand side of the assembly map: The Going-Down principle. This principle can be used in two ways, both of which I will illustrate by an example:
+It is a difficult problem to compute the K-theory of a crossed product of a C\*-algebra by a groupoid. One approach is given by the Baum-Connes conjecture, which asserts that a certain assembly map from the topological K-theory of the groupoid G with coefficients in a G-C\*-algebra \(A\) into the K-theory of the associated reduced crossed product is an isomorphism. In this talk I will present a method that allows one to deal with certain questions concerning the left hand side of the assembly map: The Going-Down principle. This principle can be used in two ways, both of which I will illustrate by an example:
 
 1) Obtain results about the Baum-Connes conjecture, and
 2) in cases where the conjecture is known to hold, prove something about the K-theory of crossed products.
@@ -79,9 +79,9 @@ It is a difficult problem to compute the K-theory of a crossed product of a \(C^
 **Thursday, 28th November 15:10 - 16:00 M/0.34**
 
 Xin Li (Queen Mary, London)
-Constructing Cartan subalgebras in all classifiable \(C^*\)-algebras
+Constructing Cartan subalgebras in all classifiable C\*-algebras
 
-I will explain how to construct Cartan subalgebras in all classifiable stably finite \(C^*\)-algebras, and I will discuss the Jiang-Su algebra as a particular example.
+I will explain how to construct Cartan subalgebras in all classifiable stably finite C\*-algebras, and I will discuss the Jiang-Su algebra as a particular example.
 
 ---
 
@@ -148,7 +148,7 @@ Constructing conformal field theories
 Taro Sogabe (Kyoto University)
 A topological invariant for continuous fields of Cuntz algebras
 
-Our interest is in locally trivial bundles of \(C^*\)-algebras including the Cuntz algebras and their topological invariants. In this talk, I would like to explain the \(C^*\)-algebras we are interested in, and introduce a topological invariant for bundles of Cuntz algebras which are elements of a generalised cohomology theory also considered by Dadarlat and Pennig.
+Our interest is in locally trivial bundles of C\*-algebras including the Cuntz algebras and their topological invariants. In this talk, I would like to explain the C\*-algebras we are interested in, and introduce a topological invariant for bundles of Cuntz algebras which are elements of a generalised cohomology theory also considered by Dadarlat and Pennig.
 
 ---
 

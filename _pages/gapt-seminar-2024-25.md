@@ -19,9 +19,9 @@ While I was on research leave in autumn 2024, the seminar was organised by
 **Thursday, 3rd October 2024 15:10 - 16:00**
 
 Shanshan Hua (University of Oxford)
-Nonstable K-theory for Z-stable C*-algebras
+Nonstable K-theory for Z-stable C\*-algebras
 
-In Jiang's unpublished paper (1997), it is shown that any \(\mathcal{Z}\)-stable C*-algebra \(A\) is \(K_1\)-injective and \(K_1\)-surjective, which means that \(K_1(A)\) can be calculated by looking at homotopy equivalence classes of \(U(A)\), without matrix amplifications. Moreover, for such \(A\), higher homotopy groups of \(U(A)\) are isomorphic to \(K_0(A)\) or \(K_1(A)\), depending on the dimension of the higher homotopy group. In this talk, I will present Jiang's result for \(\mathcal{Z}\)-stable C*-algebras. Moreover, I will explain briefly our new strategies to reprove his theorems using an alternative picture of the Jiang-Su algebra as an inductive limit of generalized dimension drop algebras.
+In Jiang's unpublished paper (1997), it is shown that any \(\mathcal{Z}\)-stable C\*-algebra \(A\) is \(K_1\)-injective and \(K_1\)-surjective, which means that \(K_1(A)\) can be calculated by looking at homotopy equivalence classes of \(U(A)\), without matrix amplifications. Moreover, for such \(A\), higher homotopy groups of \(U(A)\) are isomorphic to \(K_0(A)\) or \(K_1(A)\), depending on the dimension of the higher homotopy group. In this talk, I will present Jiang's result for \(\mathcal{Z}\)-stable C\*-algebras. Moreover, I will explain briefly our new strategies to reprove his theorems using an alternative picture of the Jiang-Su algebra as an inductive limit of generalized dimension drop algebras.
 
 ---
 

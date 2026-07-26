@@ -13,9 +13,9 @@ description: archive of GAPT seminar talks, autumn 2018 and spring 2019
 **Thursday 4th October 15:10 - 16:00 M/0.34**
 
 Stuart White (Glasgow)
-Classification of simple nuclear C*-algebras
+Classification of simple nuclear C\*-algebras
 
-Abstract: Recent years have seen repeated striking progress in the structure and classification of simple nuclear C*-algebras. I'll try and survey what the state of the art is, focusing on recent developments. I'll try and keep the talk self contained, starting out with what these `simple nuclear C*-algebras' are and why anyone wants to classify them anyway.
+Abstract: Recent years have seen repeated striking progress in the structure and classification of simple nuclear C\*-algebras. I'll try and survey what the state of the art is, focusing on recent developments. I'll try and keep the talk self contained, starting out with what these `simple nuclear C\*-algebras' are and why anyone wants to classify them anyway.
 
 ---
 
@@ -28,7 +28,7 @@ joint with Steffen Sagave
 Abstract:
 Twisted K-theory was originally invented to serve as the K-theoretic analogue of singular (co)homology with local coefficients and by design gives explicit Thom- and Poincaré duality isomorphisms. In this formulation it admits a direct description in terms of KK-theory of certain section algebras and thus has tight connections for instance to the geometry of scalar curvature. Modern homotopy theory on the other hand provides a universally twisted companion for every coherently multiplicative cohomology theory by means of parametrised spectra. This construction has very appealing formal properties and, indeed, applied to K-theory allows for much more general twists than those afforded by the operator algebraic one. Necessarily then, such twisted companions are defined in a much more formal manner and thus in general not easily tied to geometry.
 
-The goal of my talk is to briefly explain the category of the title, that naturally houses both constructions and then sketch that, indeed, a suitable restriction of the universal one reproduces the operator theoretic version of twisted K-theory. Time permitting, I shall also sketch how our work strengthens recent results of Dardalat and Pennig, describing the more exotic twists of K-theory via self-absorbing C*-algebras.
+The goal of my talk is to briefly explain the category of the title, that naturally houses both constructions and then sketch that, indeed, a suitable restriction of the universal one reproduces the operator theoretic version of twisted K-theory. Time permitting, I shall also sketch how our work strengthens recent results of Dardalat and Pennig, describing the more exotic twists of K-theory via self-absorbing C\*-algebras.
 
 ---
 
@@ -38,9 +38,9 @@ Paul Mitchener (Sheffield)
 Categories of Unbounded Operators
 
 Abstract:
-The Gelfand-Naimark theorem on C*-algebras, which asserts that a C*-algebra, defined axiomatically, is the same thing as a closed sub-algebra of the algebra of bounded linear operators on a Hilbert space, is well-known. Of course, in some cases, for example, mathematical physics, the concern is with unbounded operators such as position and momentum in quantum mechanics.
+The Gelfand-Naimark theorem on C\*-algebras, which asserts that a C\*-algebra, defined axiomatically, is the same thing as a closed sub-algebra of the algebra of bounded linear operators on a Hilbert space, is well-known. Of course, in some cases, for example, mathematical physics, the concern is with unbounded operators such as position and momentum in quantum mechanics.
 
-In this talk, we explore a set of axioms for a mathematical object analogous to a C*-algebra, but for unbounded operators. In particular, our axioms are such that an analogue of the Gelfand-Naimark theorem holds.
+In this talk, we explore a set of axioms for a mathematical object analogous to a C\*-algebra, but for unbounded operators. In particular, our axioms are such that an analogue of the Gelfand-Naimark theorem holds.
 
 ---
 
@@ -50,7 +50,7 @@ Andreas Aaserud (Cardiff)
 K-theory of some AF-algebras from braided categories
 
 Abstract:
-In the 1980s, Renault, Wassermann, Handelman and Rossmann explicitly described the K-theory of the fixed point algebras of certain actions of compact groups on AF-algebras as polynomial rings. Similarly, Evans and Gould in 1994 explicitly described the K-theory of certain AF-algebras related to SU(2) as quotients of polynomial rings. In this talk, I will explain how, in all of these cases, the multiplication in the polynomial ring (quotient) is induced by a \(*\)-homomorphism \(A\otimes A\to A\) (where \(A\) denotes the AF-algebra whose K-theory is being computed) arising from a unitary braiding on an underlying C*-tensor category and essentially defined by Erlijman and Wenzl in 2007. I will also give new explicit descriptions of the K-theory of certain AF-algebras related to SU(3), Sp(4) and G\(_2\) as quotients of polynomial rings. Finally, I will attempt to explain how this work is motivated by the Freed-Hopkins-Teleman formula for the fusion rings of WZW-models in conformal field theory. This is all based on joint work with David E. Evans.
+In the 1980s, Renault, Wassermann, Handelman and Rossmann explicitly described the K-theory of the fixed point algebras of certain actions of compact groups on AF-algebras as polynomial rings. Similarly, Evans and Gould in 1994 explicitly described the K-theory of certain AF-algebras related to SU(2) as quotients of polynomial rings. In this talk, I will explain how, in all of these cases, the multiplication in the polynomial ring (quotient) is induced by a \(*\)-homomorphism \(A\otimes A\to A\) (where \(A\) denotes the AF-algebra whose K-theory is being computed) arising from a unitary braiding on an underlying C\*-tensor category and essentially defined by Erlijman and Wenzl in 2007. I will also give new explicit descriptions of the K-theory of certain AF-algebras related to SU(3), Sp(4) and G\(_2\) as quotients of polynomial rings. Finally, I will attempt to explain how this work is motivated by the Freed-Hopkins-Teleman formula for the fusion rings of WZW-models in conformal field theory. This is all based on joint work with David E. Evans.
 
 ---
 

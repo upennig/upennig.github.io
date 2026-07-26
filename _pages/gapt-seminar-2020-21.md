@@ -106,7 +106,7 @@ I am planning to give a general introduction to sofic groups, mention a few appl
 Dominic Verdon (University of Bristol)
 Frobenius algebras, fibre functors and entanglement-assisted transformations of covariant channels
 
-I will first recall that finite-dimensional \(C^*\)-algebras and completely positive trace preserving maps precisely correspond to special symmetric Frobenius algebras and counit-preserving CP morphisms in the category of finite-dimensional Hilbert spaces and linear maps. I will extend this result to a Frobenius-algebraic characterisation of \(G\)-\(C^*\)-algebras and covariant channels for a compact quantum group \(G\), using Tannaka-Krein-Woronowicz duality for fibre functors on the rigid \(C^*\)-tensor category Rep(\(G\)). I will then introduce unitary pseudonatural transformations (UPTs) between fibre functors, a higher-dimensional generalisation of unitary monoidal natural transformations, and show how these UPTs give rise to reversible entanglement-assisted transformations of covariant classical and quantum channels generalising quantum teleportation and dense coding.
+I will first recall that finite-dimensional C\*-algebras and completely positive trace preserving maps precisely correspond to special symmetric Frobenius algebras and counit-preserving CP morphisms in the category of finite-dimensional Hilbert spaces and linear maps. I will extend this result to a Frobenius-algebraic characterisation of \(G\)-C\*-algebras and covariant channels for a compact quantum group \(G\), using Tannaka-Krein-Woronowicz duality for fibre functors on the rigid C\*-tensor category Rep(\(G\)). I will then introduce unitary pseudonatural transformations (UPTs) between fibre functors, a higher-dimensional generalisation of unitary monoidal natural transformations, and show how these UPTs give rise to reversible entanglement-assisted transformations of covariant classical and quantum channels generalising quantum teleportation and dense coding.
 
 ---
 
@@ -126,7 +126,7 @@ This is joint work with Gestur Olafsson (Baton Rouge) and Vincenzo Morinelli (Ro
 Sara Azzali (Universität Hamburg) - **talk postponed**
 Discrete group actions and Baum-Connes correspondence for the pure braid group
 
-The Baum-Connes conjecture predicts an isomorphism between two objects associated with a discrete countable group G. The first one is topological in nature and involves a classifying space for proper G-actions; the second one is analytic and involves the \(K\)-theory of the \(C^*\)-algebra of G.
+The Baum-Connes conjecture predicts an isomorphism between two objects associated with a discrete countable group G. The first one is topological in nature and involves a classifying space for proper G-actions; the second one is analytic and involves the \(K\)-theory of the C\*-algebra of G.
 
 We introduce the subject and give some examples of explicit computations, in particular for certain braid groups. For this class of groups the conjecture is known to be true by results of Oyono-Oyono, Chabert-Echterhoff, Schick.
 
@@ -157,7 +157,7 @@ The minimal models are representations of the Virasoro algebra for particular ce
 Roberto Conti (Sapienza Università di Roma)
 Old and news about Cuntz algebras
 
-The Cuntz algebras form a prominent family of C*-algebras which, for one reason or another, have contributed to shape many aspects of recent research activity, both in the general area of classification of C*-algebras and group actions as well as in Quantum Field Theory, where they played a central role in the development of abstract forms of Tannaka-Krein dualities.
+The Cuntz algebras form a prominent family of C\*-algebras which, for one reason or another, have contributed to shape many aspects of recent research activity, both in the general area of classification of C\*-algebras and group actions as well as in Quantum Field Theory, where they played a central role in the development of abstract forms of Tannaka-Krein dualities.
 In the talk I'll focus on some specific topics taken from a long-term research project aimed at understanding as much as possible about their automorphisms (which might be considered as a very dangerous but fascinating trip into a microcosm where algebra, analysis, combinatorics, dynamics, geometry etc are all tied up together in various ways).
 
 ---

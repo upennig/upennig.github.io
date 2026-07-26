@@ -33,7 +33,7 @@ The algebraic properties of the characteristic polynomial of a matrix can be eff
 Makoto Yamashita (University of Oslo)
 Homology and K-theory of dynamical systems
 
-I will give an overview on homological invariants for dynamical systems through étale groupoids motivated by the theory of aperiodic tilings, hyperbolic dynamics (Smale spaces), and beyond. Such groupoids appear from discrete group actions on topological spaces and reduction of continuous dynamics to transversal subspaces on spaces which have both continuum flavor (manifolds) and combinatorial flavor (totally disconnected spaces). Étale groupoids admit two kinds of homology theories, one being the Crainic-Moerdijk homology, and the other being the K-theory of associated C*-algebras. The latter is a receptacle for invariants motivated by mathematical physics, while the former is computable through toolkits of algebraic topology in many interesting examples. These are related by categorical structures behind KK-theory of C*-algebras. Based on joint works with Valerio Proietti.
+I will give an overview on homological invariants for dynamical systems through étale groupoids motivated by the theory of aperiodic tilings, hyperbolic dynamics (Smale spaces), and beyond. Such groupoids appear from discrete group actions on topological spaces and reduction of continuous dynamics to transversal subspaces on spaces which have both continuum flavor (manifolds) and combinatorial flavor (totally disconnected spaces). Étale groupoids admit two kinds of homology theories, one being the Crainic-Moerdijk homology, and the other being the K-theory of associated C\*-algebras. The latter is a receptacle for invariants motivated by mathematical physics, while the former is computable through toolkits of algebraic topology in many interesting examples. These are related by categorical structures behind KK-theory of C\*-algebras. Based on joint works with Valerio Proietti.
 
 ---
 
@@ -71,9 +71,9 @@ In this talk, I will review some recent developments in categorified enumerative
 **Thursday, 16th November 2023 15:10 - 16:00**
 
 Chris Bruce (Newcastle University)
-From rings to C*-algebras and back again
+From rings to C\*-algebras and back again
 
-Each ring gives rise to a concrete operator algebra—called the reduced ring C*-algebra of the ring—acting on the Hilbert space of square-summable complex-valued functions on the ring. The study of such C*-algebras was pioneered by J. Cuntz and X. Li, who were interested in structural properties such as simplicity. I will give a gentle introduction to ring C*-algebras and then present new results on rigidity of the C*-algebra construction: Two ring C*-algebras arising from rings of algebraic integers in number fields are *-isomorphic in a Cartan-preserving way if and only if the rings are isomorphic. This is joint work with Xin Li.
+Each ring gives rise to a concrete operator algebra—called the reduced ring C\*-algebra of the ring—acting on the Hilbert space of square-summable complex-valued functions on the ring. The study of such C\*-algebras was pioneered by J. Cuntz and X. Li, who were interested in structural properties such as simplicity. I will give a gentle introduction to ring C\*-algebras and then present new results on rigidity of the C\*-algebra construction: Two ring C\*-algebras arising from rings of algebraic integers in number fields are *-isomorphic in a Cartan-preserving way if and only if the rings are isomorphic. This is joint work with Xin Li.
 
 ---
 
@@ -113,9 +113,9 @@ The ring of symmetric functions plays a central role in representation theory. I
 **Thursday, 8th February 2024 15:10 - 16:00**
 
 Taro Sogabe (Kyoto University)
-Spanier-Whitehead duality and its application to a duality of extensions of C* algebras
+Spanier-Whitehead duality and its application to a duality of extensions of C\* algebras
 
-The KK-theory is an interesting invariant in the theory of C*-algebras which gives a nice category of C*-algebras and the Spanier-Whitehead duality is defined in the category.
+The KK-theory is an interesting invariant in the theory of C\*-algebras which gives a nice category of C\*-algebras and the Spanier-Whitehead duality is defined in the category.
 This duality was investigated in the work of J. Kaminker and I. Putnam by using a special extension of Cuntz-Krieger algebras. Recently, K. Matsumoto discovered an interesting duality between K-theory and KK-theory of the special extension. In this talk, I would like to explain what these two dualities are and I will try to show a picture to understand K. Matsumoto's result via the Spanier-Whitehead duality.
 This is based on a joint work with Ulrich Pennig.
 
@@ -160,9 +160,9 @@ Laplacians have been developed for a broad range of discrete structures, ranging
 **Thursday, 14th March 2024 15:10 - 16:00**
 
 Arthur Pander Maat (Queen Mary University London)
-The Morita homotopy theory of \(C^*\)-categories
+The Morita homotopy theory of C\*-categories
 
-\(C^*\)-categories are a horizontal categorification of \(C^*\)-algebras, sharing many of their fundamental properties, including an appropriate notion of Hilbert modules. One advantage of generalizing from \(C^*\)-algebras with \(C^*\)-categories is that taking the \(C^*\)-category of Hilbert modules becomes an endofunctor on the category of \(C^*\)-categories. After giving an introduction to \(C^*\)-categories, we use an Eilenberg-Watts theorem, to show that this endofunctor is a reflective localization, giving a model for the *Morita homotopy theory* of operator algebraic objects. We give several applications, including a new model for KK-theory.
+C\*-categories are a horizontal categorification of C\*-algebras, sharing many of their fundamental properties, including an appropriate notion of Hilbert modules. One advantage of generalizing from C\*-algebras with C\*-categories is that taking the C\*-category of Hilbert modules becomes an endofunctor on the category of C\*-categories. After giving an introduction to C\*-categories, we use an Eilenberg-Watts theorem, to show that this endofunctor is a reflective localization, giving a model for the *Morita homotopy theory* of operator algebraic objects. We give several applications, including a new model for KK-theory.
 
 ---
 
