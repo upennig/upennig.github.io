@@ -8,7 +8,7 @@ email: pennigu@cardiff.ac.uk # your email address
 scholar_userid: Kdtj-CQAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-bluesky: pennigulrich.bsky.social
+# bluesky: pennigulrich.bsky.social
 # linkedin: Ulrich Pennig
 orcid_id: 0000-0001-5441-6130 # your ORCID ID
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
