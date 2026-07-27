@@ -6,8 +6,6 @@ nav: false
 description: seminars at the University of Münster
 ---
 
-## seminars at the University of Münster
-
 - Von Neumann Algebras  
   winter semester 2010/2011
 - Introduction to Differential Topology  
