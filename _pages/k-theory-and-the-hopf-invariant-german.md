@@ -7,7 +7,7 @@ description: Vorlesung über K-Theorie und die Hopf-Invariante
 ---
 
 
-## k-theorie und die Hopf Invariante
+## k-theorie und die Hopf invariante
 
 Eine (nicht notwendigerweise assoziative) \\(\mathbb{R}\\)-Algebra \\(A\\) mit Einselement heißt *reelle Divisionsalgebra*, wenn jedes Element \\(a \neq 0\\) in \\(A\\) invertierbar ist. Beispiele für Divisionsalgebren sind \\(\mathbb{R}\\) selbst, die komplexen Zahlen \\(\mathbb{C}\\), die Quaternionen \\(\mathbb{H}\\) und die Cayley-Zahlen \\(\mathbb{O}\\). In dieser Vorlesung soll der folgende Satz bewiesen werden: Hat \\(\mathbb{R}^n\\) die Struktur einer reellen Divisionsalgebra, dann ist \\(n \in \\{1,2,4,8\\}\\). Hieraus folgt, dass die oben gegebenen Beispiele tatsächlich die einzigen Divisionsalgebrenstrukturen auf \\(\mathbb{R}^n\\) sind.
 
@@ -32,7 +32,7 @@ Please click [here](/k-theory-and-the-hopf-invariant/) for the English version o
 - [Skript](https://github.com/JaMeZ-B/latex-wwu/blob/master/KTheorie_SS15/K-Theorie.pdf)
 - [GitHub-Link](https://github.com/JaMeZ-B/latex-wwu/tree/master/KTheorie_SS15)
 
-## übungen und Lösungen
+## übungen und lösungen
 
 1. [Liste mit Aufgaben](/assets/pdf/aufgaben.pdf)
 2. [Lokale Trivialität von TSn (Lösung zu Aufg. 1)](/assets/pdf/loesung1.pdf)

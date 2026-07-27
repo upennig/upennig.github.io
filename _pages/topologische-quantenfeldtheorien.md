@@ -7,7 +7,7 @@ description: Vorlesung über topologische Quantenfeldtheorien
 ---
 
 
-## topologische Quantenfeldtheorien
+## topologische quantenfeldtheorien
 
 Ausgehend vom Pfadintegral aus der Quantenfeldtheorie entwarf Atiyah 1988 die Definition der topologischen Quantenfeldtheorie (TQFT). Dies war motiviert durch grundlegende Arbeiten von Witten, in denen feldtheoretische Argumente verwendet wurden, um zur Klassifikation von Mannigfaltigkeiten beizutragen.
 
@@ -15,7 +15,7 @@ Eine TQFT lässt sich am leichtesten kategorientheoretisch verstehen: Sie ist ge
 
 Im Rahmen der Vorlesung soll der obige Satz über (1+1)-dim. TQFTs bewiesen werden. Im Anschluß werden wir uns den (2+1)-dimensionalen Fall ansehen. Hier existiert eine Konstruktion von Reshetikhin und Turaev, die auf modularen Tensorkategorien beruht. Letztere werden im Rahmen der Vorlesung natürlich erklärt. Wenn es die Zeit erlaubt, werden wir auch auf neuere höherkategorielle Verallgemeinerungen eingehen. Die Vorlesung richtet sich an Mathematiker wie auch an Physiker und setzt Grundkenntnisse in Kategorientheorie voraus.
 
-## notizen zur Vorlesung
+## notizen zur vorlesung
 
 - [Kapitel 1](/assets/pdf/tqfts-01.pdf)
 - [Nachtrag zur ersten Vorlesung](/assets/pdf/tqfts-01a.pdf)
