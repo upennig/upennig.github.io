@@ -70,7 +70,7 @@ description: selected conference and seminar talks
 **2017:**
 
 - *Connective C\*-algebras*, Analysis Seminar, Glasgow (Oct)
-- *Equivariant Higher Twisted K-theory*, Newton Institute, Cambridge (Mar) - [seminar page](https://www.newton.ac.uk/seminar/20170330113012301), [video](https://www.youtube.com/watch?v=UrsjaeaIhes)
+- *Equivariant Higher Twisted K-theory*, Newton Institute, Cambridge (Mar) - [video](https://www.youtube.com/watch?v=UrsjaeaIhes)
 
 **2016:**
 
