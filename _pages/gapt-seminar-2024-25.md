@@ -11,8 +11,8 @@ description: archive of GAPT seminar talks, autumn 2024
 While I was on research leave in autumn 2024, the seminar was organised by
 
 - [Diego Corro Tapia](https://www.diegocorro.com/)
-- [Roman Gonin](https://profiles.cardiff.ac.uk/staff/goninr)
-- [Ambrose Yim](https://people.maths.ox.ac.uk/yim/)
+- Roman Gonin
+- [Ambrose Yim](https://www.stats.ox.ac.uk/people/dr-ka-man-ambrose-yim)
 
 ## Seminar Talks - Autumn 2024
 
