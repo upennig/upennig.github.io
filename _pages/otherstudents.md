@@ -18,6 +18,8 @@ nav: false
 
 ## MMath students
 
+- **Jayden Mahoney** (2025) — *Categories and classifying spaces*
+- **Oscar Wheeler** (2025) - *Topological Data Analysis*
 - **George Tridimas** (2023) — *Categories and classifying spaces*
 - **Tom Coles** (2022) — *Euler characteristic and the classification of surfaces*
 - **Thomas Davies** (2021) — *The topology of currency exchange*
