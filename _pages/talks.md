@@ -20,13 +20,13 @@ description: selected conference and seminar talks
 - *Topological Invariants for G-kernels and Group Actions*, New trends at the intersection of quantum information theory, quantum groups and operator algebras, Isaac Newton Institute, Cambridge (Dec) - [video](https://www.youtube.com/watch?v=jGqNGS1ADsc)
 - SFB-Seminar, Regensburg (Oct)
 - GeNoCAS 2024 (Jun) - [video](https://www.youtube.com/watch?v=E7NYbRUx5TI)
-- [UK Operator Algebras Conference](https://sites.google.com/view/ukoaconference/home) (Jun)
+- [UK Operator Algebras Conference](https://sites.google.com/view/ukoa25/home) (Jun)
 
 **2023:**
 
-- [Twinned Conference on C\*-Algebras and Tensor Categories](https://www.icms.org.uk/TensorCategories) (Nov)
+- [Twinned Conference on C\*-Algebras and Tensor Categories](https://icms.ac.uk/archive/workshop/twinned-conference-on-c-algebras-and-tensor-categories/) (Nov)
 - *Equivariant Higher Twisted K-Theory of SU(n) via Exponential Functors*, Center for Quantum and Topological Systems (CQTS), NYU Abu Dhabi (Sep) - [video](https://youtu.be/JXO-owcJgTE)
-- British Topology Meeting (Sep)
+- *Units of K-theory and equivariant higher Dixmier-Douady theory*, [36th British Topology Meeting](https://sites.google.com/sheffield.ac.uk/36btm/) (Sep)
 - *Equivariant Higher Dixmier-Douady Theory for Circle Actions*, Isaac Newton Institute, Cambridge (Jun) - [video](https://www.youtube.com/watch?v=ewECxBDgNC8)
 - Lunch time seminar, Southampton (Mar)
 - Analysis Seminar, Glasgow (Mar)
@@ -49,7 +49,7 @@ description: selected conference and seminar talks
 
 - *Bundles of Algebras - Dixmier-Douady Theory and Beyond*, Sheffield Pure Maths Colloquium (Nov)
 - *Bundles of C\*-Algebras - An introduction to Dixmier-Douady Theory*, [UK Virtual Operator Algebra Seminar](https://sites.google.com/view/uk-operator-algebras-seminar/home) (Aug) - [slides](/assets/pdf/virtual_uk_operator_algebras_talk.pdf)
-- *Loops, Group and Twists - The role of K-theory in mathematical physics*, [Online Algebraic Topology Seminar (OATS)](https://sites.google.com/view/nialltaggartmath/oats) (May) - [video](https://youtu.be/1TmaRMF4JuE)
+- *Loops, Group and Twists - The role of K-theory in mathematical physics*, Online Algebraic Topology Seminar (OATS) (May) - [video](https://youtu.be/1TmaRMF4JuE)
 
 **2019:**
 
@@ -61,7 +61,7 @@ description: selected conference and seminar talks
 
 **2018:**
 
-- *Connective C\*-algebras*, [Barcelona Weekend on Operator Algebras](http://www.crm.cat/en/Activities/Curs_2018-2019/Pages/WK_Barcelona_Weekend_OA.aspx) (Nov)
+- *Connective C\*-algebras*, Barcelona Weekend on Operator Algebras (Nov)
 - *Connective C\*-algebras*, Operator Algebra Seminar, KU Leuven (Nov)
 - *The Yang-Baxter equation and higher twists over SU(n)*, Algebra Seminar, Glasgow (Oct)
 - *Connective C\*-algebras*, Operator Algebra Seminar, Copenhagen (Apr)
