@@ -12,20 +12,22 @@ description: selected conference and seminar talks
 - Southampton Topology Seminar (Nov)
 - [ICMS Workshop - Operator Algebras and Mathematical Physics](https://icms.ac.uk/activities/workshop/oamp/) (Oct)
 - [Operator Algebraists' Symposium - Research Institute for Mathematical Sciences, Kyoto University](https://www.kurims.kyoto-u.ac.jp/~narutaka/2025sep.html) (Sep)
-- [Interactions between C\*-algebraic KK-theory and homotopy theory](https://www.youtube.com/watch?v=5aVjDqYMdzc), online (Jan)
+- *Interactions between C\*-algebraic KK-theory and homotopy theory*, online (Jan) - [video](https://www.youtube.com/watch?v=5aVjDqYMdzc)
 
 **2024:**
 
 - 121st Meeting of the Transalpine Topology Tetrahedron, Sheffield (Dec)
-- New trends at the intersection of quantum information theory, quantum groups and operator algebras, Isaac Newton Institute, Cambridge (Dec)
+- *Topological Invariants for G-kernels and Group Actions*, New trends at the intersection of quantum information theory, quantum groups and operator algebras, Isaac Newton Institute, Cambridge (Dec) - [video](https://www.youtube.com/watch?v=jGqNGS1ADsc)
 - SFB-Seminar, Regensburg (Oct)
-- [GeNoCAS 2024](https://www.youtube.com/watch?v=E7NYbRUx5TI) (Jun)
+- GeNoCAS 2024 (Jun) - [video](https://www.youtube.com/watch?v=E7NYbRUx5TI)
 - [UK Operator Algebras Conference](https://sites.google.com/view/ukoaconference/home) (Jun)
 
 **2023:**
 
 - [Twinned Conference on C\*-Algebras and Tensor Categories](https://www.icms.org.uk/TensorCategories) (Nov)
+- *Equivariant Higher Twisted K-Theory of SU(n) via Exponential Functors*, Center for Quantum and Topological Systems (CQTS), NYU Abu Dhabi (Sep) - [video](https://youtu.be/JXO-owcJgTE)
 - British Topology Meeting (Sep)
+- *Equivariant Higher Dixmier-Douady Theory for Circle Actions*, Isaac Newton Institute, Cambridge (Jun) - [video](https://www.youtube.com/watch?v=ewECxBDgNC8)
 - Lunch time seminar, Southampton (Mar)
 - Analysis Seminar, Glasgow (Mar)
 
@@ -41,13 +43,13 @@ description: selected conference and seminar talks
 - *Equivariant higher twists over SU(n)*, Functional Analysis Seminar, Oxford (Nov)
 - *Equivariant higher twists over SU(n)*, Operator Algebra Seminar, Oslo (Apr)
 - *Equivariant higher twists over SU(n)*, Regensburg Seminar in Homotopy Theory and Related Areas (Apr)
-- *Fell bundles, Dixmier-Douady theory and higher twists* ([video](http://www.ipam.ucla.edu/abstract/?tid=17073&pcode=ATC2021)), Institute for Pure & Applied Mathematics (IPAM) (Jan) - [slides](/assets/pdf/ipam.pdf)
+- *Fell bundles, Dixmier-Douady theory and higher twists*, Institute for Pure & Applied Mathematics (IPAM) (Jan) - [video](https://www.youtube.com/watch?v=ytUpf0VIAyE), [slides](/assets/pdf/ipam.pdf)
 
 **2020:**
 
 - *Bundles of Algebras - Dixmier-Douady Theory and Beyond*, Sheffield Pure Maths Colloquium (Nov)
 - *Bundles of C\*-Algebras - An introduction to Dixmier-Douady Theory*, [UK Virtual Operator Algebra Seminar](https://sites.google.com/view/uk-operator-algebras-seminar/home) (Aug) - [slides](/assets/pdf/virtual_uk_operator_algebras_talk.pdf)
-- *Loops, Group and Twists - The role of K-theory in mathematical physics* ([video](https://youtu.be/1TmaRMF4JuE)), [Online Algebraic Topology Seminar (OATS)](https://sites.google.com/view/nialltaggartmath/oats) (May)
+- *Loops, Group and Twists - The role of K-theory in mathematical physics*, [Online Algebraic Topology Seminar (OATS)](https://sites.google.com/view/nialltaggartmath/oats) (May) - [video](https://youtu.be/1TmaRMF4JuE)
 
 **2019:**
 
@@ -68,7 +70,7 @@ description: selected conference and seminar talks
 **2017:**
 
 - *Connective C\*-algebras*, Analysis Seminar, Glasgow (Oct)
-- [*Equivariant Higher Twisted K-theory*](https://www.newton.ac.uk/seminar/20170330113012301), Newton Institute, Cambridge (Mar)
+- *Equivariant Higher Twisted K-theory*, Newton Institute, Cambridge (Mar) - [seminar page](https://www.newton.ac.uk/seminar/20170330113012301), [video](https://www.youtube.com/watch?v=UrsjaeaIhes)
 
 **2016:**
 
