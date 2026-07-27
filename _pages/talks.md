@@ -82,7 +82,7 @@ description: selected conference and seminar talks
 - Analysis Seminar, Glasgow (Mar)
 - Topology Seminar, Aberdeen (Mar)
 - *Waldhausen's \\(S_\bullet\\)-construction* (handwritten, in German), teaching examination talk for the habilitation, Münster (Jul) - [slides](/assets/pdf/s-construction.pdf)
-- *The Erdős-Szekeres Convex Polygon Problem*, habilitation colloquium talk on Andrew Suk's improvements, Münster (Jul) - [slides](/assets/pdf/erdös-szekeres.pdf)
+- *The Erdős-Szekeres Convex Polygon Problem*, habilitation colloquium talk, Münster (Jul) - [slides](/assets/pdf/erdös-szekeres.pdf)
 
 **2015:**
 
