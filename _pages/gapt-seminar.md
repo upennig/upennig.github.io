@@ -15,7 +15,7 @@ The GAPT group has a **mailing list** as well. You can sign up to it [here](http
 
 Since spring semester 2025 the seminar homepage has moved to the official Cardiff University GAPT site.
 
-## Past Events
+## past events
 
 - [Seminar Talks in autumn 2018/spring 2019](/gapt-seminar-2018-19/)
 - [Seminar Talks in autumn 2019/spring 2020](/gapt-seminar-2019-20/)

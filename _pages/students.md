@@ -5,10 +5,10 @@ nav: true
 nav_order: 5
 dropdown: true
 children:
-  - title: PhD students
+  - title: phd students
     permalink: /PhD/ 
   - title: divider
-  - title: Co-Supervisions and MMath students
+  - title: co-supervisions, MPhil and MMath students
     permalink: /otherstudents/ 
 
 ---
