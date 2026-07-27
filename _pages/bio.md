@@ -31,7 +31,6 @@ I am interested in these and other interactions between algebraic topology, homo
 
 - **07/2016** — Habilitation in Mathematics, University of Münster
 - **08/2009** — Dr. rer. nat. in Mathematics (summa cum laude), University of Göttingen  
-  *Thesis: Twisted K-theory with coefficients in a C\*-algebra and obstructions against positive scalar curvature metrics. Advisor: Thomas Schick.*
 - **05/2006** — Diploma in Theoretical Physics, University of Göttingen
 - **06/1999** — Abitur, Liebfrauenschule Cloppenburg
 
