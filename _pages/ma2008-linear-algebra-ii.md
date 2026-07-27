@@ -21,9 +21,9 @@ The lecture notes can be downloaded by following the link below. Note that these
 
 The following are the problem sheets and the mock exam that I created for this course.
 
-- [Problem Sheet 1](/assets/pdf/sheet_1.pdf) - [Solution 1](/assets/pdf/solution_1.pdf)
-- [Problem Sheet 4](/assets/pdf/sheet_4.pdf) - [Solution 4](/assets/pdf/solution_4.pdf)
-- [Problem Sheet 5](/assets/pdf/sheet_5.pdf) - [Solution 5](/assets/pdf/solution_5.pdf)
-- [Problem Sheet 6](/assets/pdf/sheet_6.pdf) - [Solution 6](/assets/pdf/solution_6.pdf)
-- [Problem Sheet 7](/assets/pdf/sheet_7.pdf) - [Solution 7](/assets/pdf/solution_7.pdf)
-- [Mock Exam 2019](/assets/pdf/mock_exam.pdf)
+- [Problem Sheet 1](/assets/pdf/la-sheet_1.pdf) - [Solution 1](/assets/pdf/la-solution_1.pdf)
+- [Problem Sheet 4](/assets/pdf/la-sheet_4.pdf) - [Solution 4](/assets/pdf/la-solution_4.pdf)
+- [Problem Sheet 5](/assets/pdf/la-sheet_5.pdf) - [Solution 5](/assets/pdf/la-solution_5.pdf)
+- [Problem Sheet 6](/assets/pdf/la-sheet_6.pdf) - [Solution 6](/assets/pdf/la-solution_6.pdf)
+- [Problem Sheet 7](/assets/pdf/la-sheet_7.pdf) - [Solution 7](/assets/pdf/la-solution_7.pdf)
+- [Mock Exam 2019](/assets/pdf/la-mock_exam.pdf)
