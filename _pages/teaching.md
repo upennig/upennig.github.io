@@ -7,12 +7,13 @@ dropdown: true
 children:
   - title: MA3008 - Algebraic Topology
     permalink: /ma3008-algebraic-topology/
+  - title: divider
   - title: MA2008 - Linear Algebra II
     permalink: /ma2008-linear-algebra-ii/
+  - title: divider
   - title: K-Theory and the Hopf invariant
     permalink: /k-theory-and-the-hopf-invariant/
-  - title: K-Theorie und die Hopf Invariante (german)
-    permalink: /k-theory-and-the-hopf-invariant-german/
+  - title: divider
   - title: Topologische Quantenfeldtheorien (german)
     permalink: /topologische-quantenfeldtheorien/
   - title: divider
