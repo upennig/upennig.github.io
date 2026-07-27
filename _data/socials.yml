@@ -11,7 +11,7 @@ scholar_userid: Kdtj-CQAAAAJ # your Google Scholar ID
 bluesky_url: https://bsky.app/profile/pennigulrich.bsky.social # your bluesky URL
 linkedin_username: Ulrich Pennig
 orcid_id: 0000-0001-5441-6130 # your ORCID ID
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+#custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#  title: Custom Social
+#  url: https://www.alberteinstein.com/
