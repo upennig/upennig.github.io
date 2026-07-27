@@ -6,12 +6,11 @@ nav: true
 nav_order: 7
 description: archive of the GAPT seminar at Cardiff University
 
-profile:
-  align: right
-  image: assets/img/abacws.jpeg
-
 ---
 
+<img src="{{ '/assets/img/abacws.jpeg' | relative_url }}" 
+     alt="Abacws Building" 
+     style="float: right; margin: 0 0 1rem 1.5rem; max-width: 40%; height: auto; border-radius: 6px;">
 This is the unofficial seminar homepage of the GAPT group at Cardiff University. The research interests of the GAPT group sweep a broad range of topics, from algebra, geometry, topology, including operator algebras, and non-commutative geometry in pure mathematics, to algebraic and conformal quantum field theory and integrable statistical mechanics in mathematical physics.
 
 Usually the seminar takes place every Thursday at 15:10. Speakers give 50 minute talks.
