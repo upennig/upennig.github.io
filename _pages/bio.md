@@ -3,7 +3,7 @@ layout: page
 permalink: /bio/
 title: bio
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 Before joining the GAPT group at Cardiff University, I was a post-doc (akademischer Rat auf Zeit) at the University of Münster. I received my PhD in Mathematics under the supervision of [Thomas Schick](http://www.uni-math.gwdg.de/schick) and my Diploma in Physics under the supervision of [Karl-Henning Rehren](http://www.theorie.physik.uni-goettingen.de/~rehren/) in Göttingen.

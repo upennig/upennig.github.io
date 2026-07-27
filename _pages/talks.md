@@ -3,7 +3,7 @@ layout: page
 title: talks
 permalink: /talks/
 nav: true
-nav_order: 7
+nav_order: 4
 description: selected conference and seminar talks
 ---
 

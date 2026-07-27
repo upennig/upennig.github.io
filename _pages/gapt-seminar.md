@@ -3,7 +3,7 @@ layout: page
 title: GAPT seminar
 permalink: /gapt-seminar/
 nav: true
-nav_order: 11
+nav_order: 7
 description: archive of the GAPT seminar at Cardiff University
 ---
 
