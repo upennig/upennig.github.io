@@ -6,9 +6,6 @@ nav: false
 description: Vorlesung über topologische Quantenfeldtheorien
 ---
 
-
-## topologische quantenfeldtheorien
-
 Ausgehend vom Pfadintegral aus der Quantenfeldtheorie entwarf Atiyah 1988 die Definition der topologischen Quantenfeldtheorie (TQFT). Dies war motiviert durch grundlegende Arbeiten von Witten, in denen feldtheoretische Argumente verwendet wurden, um zur Klassifikation von Mannigfaltigkeiten beizutragen.
 
 Eine TQFT lässt sich am leichtesten kategorientheoretisch verstehen: Sie ist gegeben durch einen monoidalen Funktor von einer Kobordismenkategorie in die Kategorie der Vektorräume und linearen Abbildungen. Im Klartext bedeutet dies, dass wir n-dimensionalen Mannigfaltigkeiten ohne Rand einen Vektorraum zuordnen und Kobordismen zwischen diesen Mannigfaltigkeiten lineare Abbildungen, so dass bestimmte Verträglichkeitsbedingungen erfüllt sind, z.B. soll die disjunkte Vereinigung von zwei Mannigfaltigkeiten auf das Tensorprodukt der entsprechenden Vektorräume abgebildet werden und der leeren Menge wird der Grundkörper zugeordnet. Jeder solche Funktor liefert eine Invariante (n+1)-dimensionaler Mannigfaltigkeiten, indem wir ihn auf dem zugehörigen Nullkobordismus auswerten. Im Modellfall eindimensionaler Mannigfaltigkeiten und zweidimensionaler Kobordismen lassen sich die sogenannten (1+1)-dim. TQFTs vollständig klassifizieren. Hier erhält man eine 1:1-Korrespondenz zwischen TQFTs und Frobeniusalgebren. Besonders interessant sind (2+1)-dim. topologische Quantenfeldtheorien, da sie auf interessante Invarianten von 3-Mannigfaltigkeiten führen.

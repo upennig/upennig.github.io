@@ -6,9 +6,6 @@ nav: false
 description: lecture on K-theory and the Hopf invariant
 ---
 
-
-## k-theory and the hopf invariant
-
 A (not necessarily associative) \\(\mathbb{R}\\)-Algebra \\(A\\) with unit element is called real division algebra if every element \\(a \neq 0\\) in \\(A\\) is invertible. Examples of real division algebras are \\(\mathbb{R}\\) itself, the complex numbers \\(\mathbb{C}\\), the quaternions \\(\mathbb{H}\\) and the Cayley numbers \\(\mathbb{O}\\). In this lecture we will prove the following theorem: If \\(\mathbb{R}^n\\) has the structure of a real division algebra, then \\(n \in \\{1,2,4,8\\}\\). This implies that the above examples are actually the only division algebra structures on \\(\mathbb{R}^n\\).
 
 Despite the purely algebraic nature of the statement, the proof, that was found by John Frank Adams in 1960, is based on results from algebraic topology. In particular it makes use of topological K-theory. This is a generalized cohomology theory, whose classes are represented by (formal differences of) vector bundles over topological spaces. Over the years this theory was generalized for example to algebraic K-theory of rings and of operator algebras. By now it plays a fundamental role in algebraic topology. In the first part of the lecture, we will therefore recall some basics about vector bundles and discuss topological K-theory in detail.

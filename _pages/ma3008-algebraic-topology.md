@@ -6,9 +6,6 @@ nav: false
 description: An Introduction to Algebraic Topology
 ---
 
-
-## an introduction to algebraic topology
-
 Topology is a subject of fundamental importance in many branches of modern mathematics. Basically, it concerns properties of objects which remain unchanged under continuous deformation, which means by squeezing, stretching and twisting. Apples and oranges are topologically the same, but you can't deform an orange into a doughnut! More precisely, we can never deform in a continuous way a sphere (the surface of an orange) into a torus (the surface of a doughnut). Knots are also examples of topological objects, where a trefoil knot can never be deformed into an unknotted piece of string.
 
 The aim of this module is to explore properties of topological spaces. To distinguish topological spaces we will consider topological invariants such as the fundamental group, which is a powerful way of using algebra to detect topological features of spaces.

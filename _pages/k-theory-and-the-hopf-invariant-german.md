@@ -6,9 +6,6 @@ nav: false
 description: Vorlesung über K-Theorie und die Hopf-Invariante
 ---
 
-
-## k-theorie und die Hopf invariante
-
 Eine (nicht notwendigerweise assoziative) \\(\mathbb{R}\\)-Algebra \\(A\\) mit Einselement heißt *reelle Divisionsalgebra*, wenn jedes Element \\(a \neq 0\\) in \\(A\\) invertierbar ist. Beispiele für Divisionsalgebren sind \\(\mathbb{R}\\) selbst, die komplexen Zahlen \\(\mathbb{C}\\), die Quaternionen \\(\mathbb{H}\\) und die Cayley-Zahlen \\(\mathbb{O}\\). In dieser Vorlesung soll der folgende Satz bewiesen werden: Hat \\(\mathbb{R}^n\\) die Struktur einer reellen Divisionsalgebra, dann ist \\(n \in \\{1,2,4,8\\}\\). Hieraus folgt, dass die oben gegebenen Beispiele tatsächlich die einzigen Divisionsalgebrenstrukturen auf \\(\mathbb{R}^n\\) sind.
 
 Trotz der rein algebraischen Natur des Satzes, fußt der Beweis, der 1960 von [John Frank Adams](http://de.wikipedia.org/wiki/John_Frank_Adams) gefunden wurde, auf Ergebnissen aus der algebraischen Topologie. Insbesondere benutzt er *topologische K-Theorie*, eine verallgemeinerte Kohomologietheorie, deren Elemente durch Vektorbündel über topologischen Räumen repräsentiert werden. Diese Theorie ist im Laufe der Zeit immer weiter verallgemeinert worden, z.B. zur K-Theorie von Ringen oder von Operatoralgebren und spielt eine fundamentale Rolle in der algebraischen Topologie. Im ersten Teil der Vorlesung werden wir daher Grundlagen über Vektorbündel wiederholen und K-Theorie ausführlich diskutieren.
