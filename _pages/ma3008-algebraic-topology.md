@@ -34,8 +34,8 @@ The lecture notes for this course can be found by following the link below. They
 
 ## mock exams
 
-- [Mock Exam 01](/assets/pdf/mock_exam_1.pdf) - [Solution](/assets/pdf/mocksolution.pdf)
-- [Mock Exam 02](/assets/pdf/mock_exam_2.pdf) - [Solution](/assets/pdf/mocksolution2.pdf)
+- [Mock Exam 01](/assets/pdf/top_mock_exam_1.pdf) - [Solution](/assets/pdf/topmocksolution.pdf)
+- [Mock Exam 02](/assets/pdf/top_mock_exam_2.pdf) - [Solution](/assets/pdf/topmocksolution2.pdf)
 
 ## literature
 

@@ -30,21 +30,20 @@ Click [here](/k-theory-and-the-hopf-invariant-german/) for the german version of
 
 ## lecture notes (written by Jannes Bantje)
 
-- [Skript](https://gitlab.com/JaMeZ-B/LaTeX-WWU/-/jobs/29831145/artifacts/file/KTheorie_SS15/K-Theorie.pdf)
 - [GitHub-Link](https://github.com/JaMeZ-B/latex-wwu/tree/master/KTheorie_SS15)
 
 ## exercises and solutions
 
 1. [List of exercises](/assets/pdf/aufgaben.pdf)
-2. [Local Triviality of \\(TS^n\\) (solution to ex. 1)](/assets/pdf/loesung1.pdf)
-3. [Stable Trivialisability (solution to ex. 6 / Lemma 3.8)](/assets/pdf/loesung2.pdf)
-4. [Gluing of Vector Bundles (solution to ex. 7 / Lemma 3.7)](/assets/pdf/loesung3.pdf)
-5. [\\(GL_n(\mathbb{C})\\) is path connected (solution to ex. 8)](/assets/pdf/loesung4.pdf)
-6. [Product in K-Theory is graded commutative](/assets/pdf/graduiertkommutativ.pdf)
+2. [Local Triviality of \\(TS^n\\) (solution to ex. 1)](/assets/pdf/kt-loesung1.pdf)
+3. [Stable Trivialisability (solution to ex. 6 / Lemma 3.8)](/assets/pdf/kt-loesung2.pdf)
+4. [Gluing of Vector Bundles (solution to ex. 7 / Lemma 3.7)](/assets/pdf/kt-loesung3.pdf)
+5. [\\(GL_n(\mathbb{C})\\) is path connected (solution to ex. 8)](/assets/pdf/kt-loesung4.pdf)
+6. [Product in K-Theory is graded commutative](/assets/pdf/kt-graduiertkommutativ.pdf)
 
 ## literature
 
-- *Bratzler, C.; Lück, W.: [Topologische K-Theorie](http://www.math.kit.edu/iag7/lehre/semsauer2013s/media/course_k-theory.pdf), seminar notes in german*
+- *Bratzler, C.; Lück, W.: Topologische K-Theorie, seminar notes in german*
 - *Atiyah, M.: K-Theory, W.A. Benjamin Inc., 1967*
 - *Bott, R.: Lectures on K(X), W.A. Benjamin Inc., 1962*
 - *Hatcher, A.: [Vector Bundles and K-Theory](http://www.math.cornell.edu/~hatcher/VBKT/VB.pdf), book, Preprint, 2009*
