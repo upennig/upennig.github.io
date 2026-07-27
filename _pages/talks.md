@@ -88,25 +88,25 @@ description: selected conference and seminar talks
 
 - *Deformations of nilpotent groups and homotopy symmetric C\*-algebras*, Operator Algebra Seminar, Copenhagen (Oct)
 - *A Dixmier-Douady Theory for strongly self-absorbing C\*-algebras*, Oberwolfach Workshop "Noncommutative Geometry" (Jun)
-- *A noncommutative model for higher twisted K-theory and K-homology*, Operator Algebra Seminar, Copenhagen (invited by Dominic Enders) (Mar)
+- *A noncommutative model for higher twisted K-theory and K-homology*, Operator Algebra Seminar, Copenhagen (Mar)
 - *Crossed module actions on continuous trace C\*-algebras*, String Geometry Network Meeting, Greifswald (Feb)
 
 **2014:**
 
-- *Twisted index obstructions to positive scalar curvature*, Geometry and Quantum Theory, Zandvoort (invited by Maarten Solleveld) (Nov)
+- *Twisted index obstructions to positive scalar curvature*, Geometry and Quantum Theory, Zandvoort (Nov)
 - *A Dixmier-Douady Theory for strongly self-absorbing C\*-algebras*, Methods of Noncommutative Geometry in Analysis and Topology, Hannover (Oct)
 - *Twisted K-theory via strongly self-absorbing C\*-algebras*, Quantum physics and non-commutative geometry, trimester Non-commutative Geometry and its Applications, HIM Bonn (Sep)
 - *Topological invariants of C(X)-algebras*, C\*-Algebras and Dynamical Systems, Fields Institute, Toronto (Jul)
 
 **2013:**
 
-- *Unit spectra of K-theory via strongly self-absorbing C\*-algebras*, Analysis Seminar, Glasgow (invited by Christian Voigt) (Nov)
+- *Unit spectra of K-theory via strongly self-absorbing C\*-algebras*, Analysis Seminar, Glasgow (Nov)
 - *Unit spectra of K-theory via strongly self-absorbing C\*-algebras*, Twists, generalised cohomology and applications, Münster (Oct) - [slides](/assets/pdf/units_of_k-theory_2.pdf)
 - *Unit spectra of K-theory via strongly self-absorbing C\*-algebras*, String Geometry Network Meeting, MPI, Bonn (Oct)
-- *Unit spectra of K-theory via strongly self-absorbing C\*-algebras*, Séminaires de l'équipe de Topologie Algébrique, Paris (invited by Christian Ausoni) (Sep)
-- *Unit spectra of K-theory via strongly self-absorbing C\*-algebras*, Operator Algebras Seminar at Purdue (invited by Marius Dadarlat) (Sep)
-- *K-theory, BU and C\*-algebras* (Introductory Talk) and *Unit spectra of K-theory via strongly self-absorbing C\*-algebras* (Main Talk), Berkeley Topology Seminar (invited by Constantin Teleman) (Sep) - [slides: introductory talk](/assets/pdf/cstar-algebras.pdf), [slides: main talk](/assets/pdf/units_of_k-theory.pdf)
-- *Operator algebraic K-theory via spectra*, Operator Algebras Seminar at Purdue (invited by Marius Dadarlat) (Apr)
+- *Unit spectra of K-theory via strongly self-absorbing C\*-algebras*, Séminaires de l'équipe de Topologie Algébrique, Paris (Sep)
+- *Unit spectra of K-theory via strongly self-absorbing C\*-algebras*, Operator Algebras Seminar at Purdue (Sep)
+- *K-theory, BU and C\*-algebras* (Introductory Talk) and *Unit spectra of K-theory via strongly self-absorbing C\*-algebras* (Main Talk), Berkeley Topology Seminar (Sep) - [slides: introductory talk](/assets/pdf/cstar-algebras.pdf), [slides: main talk](/assets/pdf/units_of_k-theory.pdf)
+- *Operator algebraic K-theory via spectra*, Operator Algebras Seminar at Purdue (Apr)
 - *A Dixmier-Douady Theory for strongly self-absorbing C\*-algebras*, ICMS-Workshop: The structure and classification of nuclear C\*-algebras, Edinburgh (Apr)
 
 **2012:**
