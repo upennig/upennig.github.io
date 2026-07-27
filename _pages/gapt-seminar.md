@@ -8,7 +8,7 @@ description: archive of the GAPT seminar at Cardiff University
 
 profile:
   align: right
-  image: abacws.jpeg
+  image: assets/img/abacws.jpeg
 
 ---
 
