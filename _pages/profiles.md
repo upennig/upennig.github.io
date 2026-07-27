@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /PhD/
-title: PhD students
+title: phd students
 description: current and former PhD students
 nav: false
 
