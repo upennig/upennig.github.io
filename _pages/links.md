@@ -20,7 +20,7 @@ description: online tools for mathematicians
 - [The Manifold Atlas](http://www.map.mpim-bonn.mpg.de/index.php/Main_Page)
 - [Detexify](http://detexify.kirelabs.org/classify.html) (draw a symbol and get the LaTeX code for it)
 - [Mathpix](https://mathpix.com) (convert screenshots to LaTeX code)
-- [Online Videos of the MSRI](http://www.msri.org/web/msri/online-videos)
+- [Online Videos of the MSRI](https://legacy.slmath.org/videos/dashboard)
 - [Seminars archive of the Isaac Newton Institute](https://www.newton.ac.uk/webseminars)
 
 ## blogs
