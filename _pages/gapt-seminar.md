@@ -13,7 +13,7 @@ Usually the seminar takes place every Thursday at 15:10. Speakers give 50 minute
 
 The GAPT group has a **mailing list** as well. You can sign up to it [here](https://mailman.cardiff.ac.uk/postorius/lists/gapt.mailman.cardiff.ac.uk/).
 
-Since spring semester 2025 the seminar homepage has moved to the official Cardiff University GAPT site.
+Since spring semester 2025 the seminar homepage has moved to the [official Cardiff University GAPT site](https://research-sites.cardiff.ac.uk/gapt/).
 
 ## past events
 
