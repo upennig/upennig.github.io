@@ -7,6 +7,11 @@ nav_order: 4
 description: selected conference and seminar talks
 ---
 
+**2026:**
+
+- Interactions between operator algebras, K-theory and homotopy theory, Münster (Sep)
+- Higher Differential Geometry, Greifswald (May)
+
 **2025:**
 
 - Southampton Topology Seminar (Nov)
