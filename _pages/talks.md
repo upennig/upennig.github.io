@@ -9,7 +9,7 @@ description: selected conference and seminar talks
 
 **2026:**
 
-- Interactions between operator algebras, K-theory and homotopy theory, Münster (Sep)
+- Interactions between operator algebras, K-theory and homotopy theory, Münster (Sep) - [slides](/assets/pdf/Muenster2026.pdf)
 - Higher Differential Geometry, Greifswald (May)
 
 **2025:**
