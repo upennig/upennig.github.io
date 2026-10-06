@@ -10,6 +10,7 @@ description: selected conference and seminar talks
 **2026:**
 
 - Mathematics and Theoretical Physics Seminar, Hertfordshire (Nov)
+- Algebraic Topology Seminar, Warwick (Oct)
 - Interactions between operator algebras, K-theory and homotopy theory, Münster (Sep) - [slides](/assets/pdf/Muenster2026.pdf)
 - Higher Differential Geometry, Greifswald (May)
 
