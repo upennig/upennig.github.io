@@ -19,7 +19,8 @@ I am interested in these and other interactions between algebraic topology, homo
 
 ## academic positions
 
-- **08/2019 – present** — Senior Lecturer, Cardiff University
+- **08/2026 – present** — Reader, Cardiff University
+- **08/2019 – 07/2026** — Senior Lecturer, Cardiff University
 - **04/2016 – 07/2019** — Lecturer, Cardiff University
 - **11/2010 – 03/2016** — Akademischer Rat auf Zeit, University of Münster
 - **08/2010 – 10/2010** — Research Assistant, University of Münster
